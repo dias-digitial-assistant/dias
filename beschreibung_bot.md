@@ -49,13 +49,4 @@ Die Plattform ist webbasiert, eine lokale Installation ist nicht erforderlich.
 2. Melde dich mit deiner Mailadresse oder ggf. mit deinem Hochschulaccount an.  
 3. Wähle ein Modus um zu starten.  
 
----
-
-## Beitrag & Feedback
-
-Beiträge und Verbesserungsvorschläge können direkt über die Plattform oder eingereicht über die Hochschule Ansbach eingebracht werden. 
-Feedback ist herzlich willkommen, um die Plattform kontinuierlich zu optimieren und weiterzuentwickeln.
-
----
-
 **Hinweis:** Diese Version von DIAS befindet sich in der finalen Bearbeitung und wird regelmäßig aktualisiert. Stand 12/2025
