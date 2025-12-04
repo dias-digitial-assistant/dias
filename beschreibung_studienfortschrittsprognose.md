@@ -2,11 +2,13 @@
 
 <img width="2560" height="1320" alt="image" src="https://github.com/user-attachments/assets/9d2420ad-fcad-451c-a0c7-4cf1646afc85" />
 
+Link zum Repository: [Link](https://github.com/dias-digitial-assistant/dias_v31/tree/feature/fortschrittsprognose-cleanup)
+
 Die **DIAS Fortschrittsprognose** ist eine Analysator-Komponente des DIAS-Projekts (Digitales Intelligentes Assistenzsystem) der Hochschule Ansbach. Sie hilft Studierenden, die voraussichtliche Studiendauer basierend auf ihrem aktuellen Fortschritt einzuschätzen.
 
 Dieser Service ist Teil des DIAS-Ökosystems.
 
-Die Fortschrittsprognose kann innerhalb des DIAS-Plattform durch Eingabe von "Studienfortschrittsprognose" aufgerufen werden.
+Die Fortschrittsprognose kann innerhalb der DIAS-Plattform durch Eingabe von "Studienfortschrittsprognose" aufgerufen werden.
 
 ### Funktionsweise
 
