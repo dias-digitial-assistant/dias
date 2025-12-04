@@ -12,21 +12,18 @@ Der **DIAS Lernsession-Editor** ist ein Werkzeug für Lehrende der Hochschule An
 <img width="1200" height="684" alt="image" src="https://github.com/user-attachments/assets/c2777696-94ca-4d57-9276-8f18589e28d3" />
 
 1. Das Quiz-Model für Studierende
-
-![Quizmodel](https://github.com/user-attachments/assets/2712ac76-970c-4d2d-94a5-667aa5f873d2)
+   Funktionen:
 
 Beschreibung: Übe mit vorbereiteten Modulen oder erstelle deine eigenen Lernmaterialien
-
-Funktionen:
 
 - Lernmodule durchsuchen - Zugriff auf eine umfangreiche Bibliothek vorbereiteter Quizmodule
 - Selbstlern-Modus - Individuelles Lerntempo und wiederholtes Üben
 - Beantworte Fragen und erhalte Feedback - Sofortige Rückmeldung zu Antworten mit detaillierten Erklärungen
 - Lernfortschritt verfolgen - Tracking deiner Entwicklung und Identifikation von Wissenslücken
 
-2. Tutor-Model für Studierende
+![Quizmodel](https://github.com/user-attachments/assets/2712ac76-970c-4d2d-94a5-667aa5f873d2)
 
-![Tutor Model](https://github.com/user-attachments/assets/63b1b920-1a3b-46c9-89d6-8364cb25ea11)
+2. Tutor-Model für Studierende
 
 Beschreibung: Interaktive KI-gestützte Nachhilfe mit Dokumentkontext
 Funktionen
@@ -35,6 +32,8 @@ Funktionen
 - Chatte mit Dokumentinhalten - Stelle Fragen direkt zu hochgeladenen Materialien
 - RAG-gestützte Generierung - Retrieval-Augmented Generation für präzise, kontextbasierte Antworten
 - Lernreflexion Unterstützung - Sokratischer Dialog zur Vertiefung des Verständnisses
+
+![Tutor Model](https://github.com/user-attachments/assets/63b1b920-1a3b-46c9-89d6-8364cb25ea11)
 
 ## Internetzugang
 Schnellstart
