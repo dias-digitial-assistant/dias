@@ -1,6 +1,7 @@
 # DIAS - Der digitale Studienassistent
 
-<img width="1200" height="684" alt="image" src="https://github.com/user-attachments/assets/f0fb529a-45db-4c7e-aa65-07a0babb97c2" />
+<img width="1907" height="983" alt="image" src="https://github.com/user-attachments/assets/52f8aadd-6eed-4738-8498-4db187edf22a" />
+
 
 
 **DIAS - Der Digitale Studienassistent** Der KI-basierte Assistent soll Studierende begleiten, sie motivieren und sie befähigen, ihr Studium besser zu organisieren und erfolgreich abzuschließen. 
