@@ -23,8 +23,6 @@ Keine Suche durch Menüstrukturen, sondern direkte Antworten – 24/7. Er stellt
 
 <img width="771" height="863" alt="Botantwort" src="https://github.com/user-attachments/assets/9f1241d4-065f-4c40-af52-97fc6e5639fa" />
 
-**Hinweis:** Diese Version von DIAS befindet sich in der finalen Bearbeitung und wird regelmäßig aktualisiert. Stand 12/2025
-
 ## Quicklinks
 
 Unter der Rubrik "Quicklinks" findest du hilfreiche Links zu folgenden Themen
