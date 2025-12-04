@@ -3,9 +3,8 @@
 Der Digitale Studienassistent. Der KI-basierte Assistent soll Studierende begleiten, sie motivieren und sie befähigen, ihr Studium besser zu organisieren und erfolgreich abzuschließen. 
 Er dient ihnen insbes. in vier Funktionen: als Planer, Kommunikator, Analysator und Motivator.
 ---
+<img width="930" height="618" alt="HS-Bot" src="https://github.com/user-attachments/assets/1535a9bd-25af-476f-b905-e8000e7d7120" />
 
-
-<img width="1907" height="983" alt="image" src="https://github.com/user-attachments/assets/52f8aadd-6eed-4738-8498-4db187edf22a" />
 
 ## Überblick
 Im Oktober 2021 startete das Forschungsprojekt DIAS (Digitaler Intelligenter Assistent für Studium und Lehre) an der Hochschule Ansbach mit dem Ziel Studierende zu begleiten, zu motivieren und zu befähigen das Studium besser zu organisieren und erfolgreich abzuschließen. DIAS nimmt dabei verschiedene Funktionen als Planer, Motivator, Analysator und Kommunikator ein. Diese Funktionen vereinen sich in DIAS durch die Entwicklung verschiedener KI-basierter Modelle. Studierende interagieren mit DIAS über eine eigene Webapplikation. 
