@@ -29,7 +29,7 @@ Funktionen:
 ![Tutor Model](https://github.com/user-attachments/assets/63b1b920-1a3b-46c9-89d6-8364cb25ea11)
 
 Beschreibung: Interaktive KI-gestützte Nachhilfe mit Dokumentkontext
-Funktionen:
+Funktionen
 
 - Lade deine eigenen Dokumente hoch - PDFs, Vorlesungsfolien, Skripte und Lehrbücher
 - Chatte mit Dokumentinhalten - Stelle Fragen direkt zu hochgeladenen Materialien
