@@ -14,6 +14,7 @@ Er dient ihnen insbes. in vier Funktionen: als Planer, Kommunikator, Analysator 
 ## Nutzen
 Der DIAS-Chatbot schafft Informationstransparenz: Studierende erhalten rund um die Uhr Antworten auf Fragen zum Studium – von der Prüfungsanmeldung bis zum Semesterbeitrag. Als zentrale Anlaufstelle bündelt der Bot Inhalte der Hochschulwebseite und macht sie in natürlicher Sprache zugänglich. 
 Keine Suche durch Menüstrukturen, sondern direkte Antworten – 24/7. Er stellt studienrelevante Informationen zentral im System bereit.
+DIAS motiviert Studierende mit Gamification-Elementen, Motivationssprüchen und hilfreichen Lerntipps.
 
 ### Schnellstart
 
