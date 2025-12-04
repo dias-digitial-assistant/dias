@@ -1,18 +1,18 @@
-# DIAS lernsession-editor
+# lernsession-editor
 
 
 Der **DIAS Lernsession-Editor** ist ein Werkzeug für Lehrende der Hochschule Ansbach, mit dem sie Lernsessions für Studierende erstellen können. Diese Sessions stehen anschließend über **DIAS Tutor** und **DIAS Quiz** zur Verfügung.
 
-![Lerneditor](https://github.com/user-attachments/assets/fc841a0a-e80f-49f4-b6f1-14df992649f1)
+<img width="1200" height="684" alt="image" src="https://github.com/user-attachments/assets/fc841a0a-e80f-49f4-b6f1-14df992649f1" />
 
 Der Lernplaner als Erinnerungs- und Organisationstool unterstützt Studierende bei der Organisation ihres Studiums und der Verbesserung des Selbstmanagements. Er generiert individuelle Lernpläne, erinnert an Abgabetermine sowie HS-Veranstaltungen.
 
-# Plattform-Link: DIAS Overview!
+## Plattform-Link: DIAS Overview!
 
 
-# Erklärung und Anleitung
+## Erklärung und Anleitung
 
-[Lernplattform](https://github.com/user-attachments/assets/c2777696-94ca-4d57-9276-8f18589e28d3)
+<img width="1200" height="684" alt="image" src="https://github.com/user-attachments/assets/c2777696-94ca-4d57-9276-8f18589e28d3" />
 
 Die DIAS-Plattform bietet zwei spezialisierte Modelle für unterschiedliche Lernszenarien:
 1. Das Quiz-Model für Studierende
@@ -34,13 +34,13 @@ Funktionen:
 ✓ Lernreflexion Unterstützung - Sokratischer Dialog zur Vertiefung des Verständnisses
 
 
-# Nutzung
+## Nutzung
 Die Plattform ist webbasiert, eine lokale Installation ist nicht erforderlich.
 
-# Voraussetzungen
+## Voraussetzungen
 Moderner Webbrowser (Chrome, Firefox, Edge, Safari)
 
-# Internetzugang
+## Internetzugang
 Schnellstart
 Öffne: DIAS Overview
 Melde dich mit deiner Mailadresse oder ggf. mit deinem Hochschulaccount an.
@@ -48,4 +48,4 @@ Wähle ein Modus um zu starten.
 Beitrag & Feedback
 Beiträge und Verbesserungsvorschläge können direkt über die Plattform oder eingereicht über die Hochschule Ansbach eingebracht werden. Feedback ist herzlich willkommen, um die Plattform kontinuierlich zu optimieren und weiterzuentwickeln.
 
-# Hinweis: Diese Version von DIAS befindet sich in der finalen Bearbeitung und wird regelmäßig aktualisiert. Stand 12/2025
+## Hinweis: Diese Version von DIAS befindet sich in der finalen Bearbeitung und wird regelmäßig aktualisiert. Stand 12/2025
