@@ -2,6 +2,7 @@
 
 <img width="1907" height="983" alt="image" src="https://github.com/user-attachments/assets/52f8aadd-6eed-4738-8498-4db187edf22a" />
 
+
 DIAS - Der Digitale Studienassistent. Der KI-basierte Assistent soll Studierende begleiten, sie motivieren und sie befähigen, ihr Studium besser zu organisieren und erfolgreich abzuschließen. 
 Er dient ihnen insbes. in vier Funktionen: als Planer, Kommunikator, Analysator und Motivator.
 ---
