@@ -1,6 +1,8 @@
 # DIAS Platform Overview
 
 ## Model Overview
+<img width="1016" height="838" alt="image" src="https://github.com/user-attachments/assets/e4383517-63b0-4c4e-8909-d1db22d3d292" />
+
 
 ### DIAS Services
 |DIAS Plattform|Beschreibung|HS-Transfer Zugang|Stand|
