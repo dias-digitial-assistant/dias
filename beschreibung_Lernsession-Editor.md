@@ -1,9 +1,8 @@
 # lernsession-editor
 
-
 Der **DIAS Lernsession-Editor** ist ein Werkzeug für Lehrende der Hochschule Ansbach, mit dem sie Lernsessions für Studierende erstellen können. Diese Sessions stehen anschließend über **DIAS Tutor** und **DIAS Quiz** zur Verfügung.
 
-<img width="1200" height="684" alt="image" src="https://github.com/user-attachments/assets/fc841a0a-e80f-49f4-b6f1-14df992649f1" />
+<img width="1016" height="838" alt="Screenshot-DIASPlattform" src="https://github.com/user-attachments/assets/6ec290d6-b07d-423a-b902-42f4335cde24" />
 
 Der Lernplaner als Erinnerungs- und Organisationstool unterstützt Studierende bei der Organisation ihres Studiums und der Verbesserung des Selbstmanagements. Er generiert individuelle Lernpläne, erinnert an Abgabetermine sowie HS-Veranstaltungen.
 
