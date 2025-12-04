@@ -5,7 +5,6 @@ Er dient ihnen insbes. in vier Funktionen: als Planer, Kommunikator, Analysator 
 ---
 <img width="930" height="618" alt="HS-Bot" src="https://github.com/user-attachments/assets/1535a9bd-25af-476f-b905-e8000e7d7120" />
 
-
 ## Überblick
 Im Oktober 2021 startete das Forschungsprojekt DIAS (Digitaler Intelligenter Assistent für Studium und Lehre) an der Hochschule Ansbach mit dem Ziel Studierende zu begleiten, zu motivieren und zu befähigen das Studium besser zu organisieren und erfolgreich abzuschließen. DIAS nimmt dabei verschiedene Funktionen als Planer, Motivator, Analysator und Kommunikator ein. Diese Funktionen vereinen sich in DIAS durch die Entwicklung verschiedener KI-basierter Modelle. Studierende interagieren mit DIAS über eine eigene Webapplikation. 
 Ein vorangegangenes Pilotprojekt umfasste zudem Zugriffsmöglichkeiten über die Hochschulwebseite, ein Hologramm und ein Terminal.
@@ -35,8 +34,10 @@ Keine Suche durch Menüstrukturen, sondern direkte Antworten – 24/7. Er stellt
 
 ### Schnellstart
 
-1. Öffne: [DIAS Overview](https://dias.hs-ansbach.de/dias_test/dias-overview)  
-2. Melde dich mit deiner Mailadresse oder ggf. mit deinem Hochschulaccount an.  
-3. Wähle ein Modus um zu starten.  
+- Öffne: [DIAS Overview](https://dias.hs-ansbach.de/dias_test/dias-overview)  
+- Melde dich mit deiner Mailadresse oder ggf. mit deinem Hochschulaccount an.  
+- Wähle "Dias HS-Bot" um zu starten.
+
+<img width="321" height="193" alt="HSBOT1" src="https://github.com/user-attachments/assets/79421940-eef9-4cf4-80cf-e8735cba9c9d" />
 
 **Hinweis:** Diese Version von DIAS befindet sich in der finalen Bearbeitung und wird regelmäßig aktualisiert. Stand 12/2025
