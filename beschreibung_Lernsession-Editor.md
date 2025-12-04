@@ -6,9 +6,6 @@ Der **DIAS Lernsession-Editor** ist ein Werkzeug für Lehrende der Hochschule An
 
 Der Lernplaner als Erinnerungs- und Organisationstool unterstützt Studierende bei der Organisation ihres Studiums und der Verbesserung des Selbstmanagements. Er generiert individuelle Lernpläne, erinnert an Abgabetermine sowie HS-Veranstaltungen.
 
-## Plattform-Link: DIAS Overview!
-
-
 ## Erklärung und Anleitung
 
 - Das Tutor-Modell nutzt hochgeladene Dokumenteninhalte und unterstützt durch interaktives, dialogorientiertes Lernen. Nach dem sokratischen Prinzip führt der virtuelle Tutor Studierende durch gezielte Gegenfragen und Denkanstöße zu eigenen Lösungen und fördert so kritisches Denken und tiefes Verständnis, um den eigenen Lernfortschritt zu reflektieren.
