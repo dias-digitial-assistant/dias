@@ -1,1 +1,23 @@
+# DIAS Fortschrittsprognose / Study Progress Forecast
 
+<img width="2560" height="1320" alt="image" src="https://github.com/user-attachments/assets/9d2420ad-fcad-451c-a0c7-4cf1646afc85" />
+
+Die **DIAS Fortschrittsprognose** ist eine Analysator-Komponente des DIAS-Projekts (Digitales Intelligentes Assistenzsystem) der Hochschule Ansbach. Sie hilft Studierenden, die voraussichtliche Studiendauer basierend auf ihrem aktuellen Fortschritt einzuschätzen.
+
+Dieser Service ist Teil des DIAS-Ökosystems.
+
+Die Fortschrittsprognose kann innerhalb des DIAS-Plattform durch Eingabe von "Studienfortschrittsprognose" aufgerufen werden.
+
+### Funktionsweise
+
+Die API berechnet:
+- **Verbleibende Semester** bis zum Studienabschluss
+- **Voraussichtliches Endsemester** basierend auf der bisherigen Leistung
+- **Personalisierte Empfehlungen** mit Hinweisen und Kontaktinformationen
+
+Eingabeparameter:
+| Parameter | Beschreibung | Beispiel |
+|-----------|--------------|----------|
+| `typeStudy` | "B" für Bachelor (210 ECTS) oder "M" für Master (90 ECTS) | "B" |
+| `actualSemester` | Aktuelles Semester | 3 |
+| `actualCredits` | Voraussichtlich erreichte ECTS zum Ende des aktuellen Semesters | 60 |
