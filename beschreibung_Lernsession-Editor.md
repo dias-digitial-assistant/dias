@@ -37,10 +37,10 @@ Funktionen
 
 ## Internetzugang
 Schnellstart
-Öffne: DIAS Overview
-Melde dich mit deiner Mailadresse oder ggf. mit deinem Hochschulaccount an.
-Wähle nach dem Login entweder "Quiz-Model für Stuiderende" oder "Tutor-Model für Studierende"
-Du kannst dir bevor du eine Entescheidung triffst zu den beiden Modellen noch ein Tutorial anschauen.
+- Öffne: DIAS Overview
+- Melde dich mit deiner Mailadresse oder ggf. mit deinem Hochschulaccount an.
+- Wähle nach dem Login entweder "Quiz-Model für Stuiderende" oder "Tutor-Model für Studierende"
+- Du kannst dir bevor du eine Entescheidung triffst zu den beiden Modellen noch ein Tutorial anschauen.
 
 ## Beitrag & Feedback
 Beiträge und Verbesserungsvorschläge können direkt über die Plattform oder eingereicht über die Hochschule Ansbach eingebracht werden. Feedback ist herzlich willkommen, um die Plattform kontinuierlich zu optimieren und weiterzuentwickeln.
