@@ -15,22 +15,29 @@ Der Lernplaner als Erinnerungs- und Organisationstool unterstützt Studierende b
 
 Die DIAS-Plattform bietet zwei spezialisierte Modelle für unterschiedliche Lernszenarien:
 1. Das Quiz-Model für Studierende
+
+![Quizmodel](https://github.com/user-attachments/assets/2712ac76-970c-4d2d-94a5-667aa5f873d2)
+
 Beschreibung: Übe mit vorbereiteten Modulen oder erstelle deine eigenen Lernmaterialien
+
 Funktionen:
 
-✓ Lernmodule durchsuchen - Zugriff auf eine umfangreiche Bibliothek vorbereiteter Quizmodule
-✓ Selbstlern-Modus - Individuelles Lerntempo und wiederholtes Üben
-✓ Beantworte Fragen und erhalte Feedback - Sofortige Rückmeldung zu Antworten mit detaillierten Erklärungen
-✓ Lernfortschritt verfolgen - Tracking deiner Entwicklung und Identifikation von Wissenslücken
+- Lernmodule durchsuchen - Zugriff auf eine umfangreiche Bibliothek vorbereiteter Quizmodule
+- Selbstlern-Modus - Individuelles Lerntempo und wiederholtes Üben
+- Beantworte Fragen und erhalte Feedback - Sofortige Rückmeldung zu Antworten mit detaillierten Erklärungen
+- Lernfortschritt verfolgen - Tracking deiner Entwicklung und Identifikation von Wissenslücken
 
 2. Tutor-Model für Studierende
+
+![Tutor Model](https://github.com/user-attachments/assets/63b1b920-1a3b-46c9-89d6-8364cb25ea11)
+
 Beschreibung: Interaktive KI-gestützte Nachhilfe mit Dokumentkontext
 Funktionen:
 
-✓ Lade deine eigenen Dokumente hoch - PDFs, Vorlesungsfolien, Skripte und Lehrbücher
-✓ Chatte mit Dokumentinhalten - Stelle Fragen direkt zu hochgeladenen Materialien
-✓ RAG-gestützte Generierung - Retrieval-Augmented Generation für präzise, kontextbasierte Antworten
-✓ Lernreflexion Unterstützung - Sokratischer Dialog zur Vertiefung des Verständnisses
+- Lade deine eigenen Dokumente hoch - PDFs, Vorlesungsfolien, Skripte und Lehrbücher
+- Chatte mit Dokumentinhalten - Stelle Fragen direkt zu hochgeladenen Materialien
+- RAG-gestützte Generierung - Retrieval-Augmented Generation für präzise, kontextbasierte Antworten
+- Lernreflexion Unterstützung - Sokratischer Dialog zur Vertiefung des Verständnisses
 
 
 ## Nutzung
@@ -47,4 +54,4 @@ Wähle ein Modus um zu starten.
 Beitrag & Feedback
 Beiträge und Verbesserungsvorschläge können direkt über die Plattform oder eingereicht über die Hochschule Ansbach eingebracht werden. Feedback ist herzlich willkommen, um die Plattform kontinuierlich zu optimieren und weiterzuentwickeln.
 
-## Hinweis: Diese Version von DIAS befindet sich in der finalen Bearbeitung und wird regelmäßig aktualisiert. Stand 12/2025
+Hinweis: Diese Version von DIAS befindet sich in der finalen Bearbeitung und wird regelmäßig aktualisiert. Stand 12/2025
