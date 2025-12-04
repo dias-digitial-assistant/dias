@@ -53,8 +53,9 @@ Die Plattform ist webbasiert, eine lokale Installation ist nicht erforderlich.
 
 ## Beitrag & Feedback
 
-Beiträge und Verbesserungsvorschläge können über die Hochschule Ansbach eingebracht werden. Feedback ist willkommen, um die Plattform kontinuierlich zu optimieren und weiterzuentwickeln.
+Beiträge und Verbesserungsvorschläge können direkt über die Plattform oder eingereicht über die Hochschule Ansbach eingebracht werden. 
+Feedback ist herzlich willkommen, um die Plattform kontinuierlich zu optimieren und weiterzuentwickeln.
 
 ---
 
-**Hinweis:** Diese Version von DIAS befindet sich in der finalen Bearbeitung und wird regelmäßig aktualisiert.
+**Hinweis:** Diese Version von DIAS befindet sich in der finalen Bearbeitung und wird regelmäßig aktualisiert. Stand 12/2025
