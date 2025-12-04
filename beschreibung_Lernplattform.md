@@ -12,7 +12,6 @@ Der **DIAS Lernsession-Editor** ist ein Werkzeug für Lehrende der Hochschule An
 <img width="1200" height="684" alt="image" src="https://github.com/user-attachments/assets/c2777696-94ca-4d57-9276-8f18589e28d3" />
 
 1. Das Quiz-Model für Studierende
-   Funktionen:
 
 Beschreibung: Übe mit vorbereiteten Modulen oder erstelle deine eigenen Lernmaterialien
 
@@ -26,7 +25,6 @@ Beschreibung: Übe mit vorbereiteten Modulen oder erstelle deine eigenen Lernmat
 2. Tutor-Model für Studierende
 
 Beschreibung: Interaktive KI-gestützte Nachhilfe mit Dokumentkontext
-Funktionen
 
 - Lade deine eigenen Dokumente hoch - PDFs, Vorlesungsfolien, Skripte und Lehrbücher
 - Chatte mit Dokumentinhalten - Stelle Fragen direkt zu hochgeladenen Materialien
@@ -35,14 +33,8 @@ Funktionen
 
 ![Tutor Model](https://github.com/user-attachments/assets/63b1b920-1a3b-46c9-89d6-8364cb25ea11)
 
-## Internetzugang
-Schnellstart
+## Schnellstart
 - Öffne: DIAS Overview
 - Melde dich mit deiner Mailadresse oder ggf. mit deinem Hochschulaccount an.
 - Wähle nach dem Login entweder "Quiz-Model für Stuiderende" oder "Tutor-Model für Studierende"
 - Du kannst dir bevor du eine Entescheidung triffst zu den beiden Modellen noch ein Tutorial anschauen.
-
-## Beitrag & Feedback
-Beiträge und Verbesserungsvorschläge können direkt über die Plattform oder eingereicht über die Hochschule Ansbach eingebracht werden. Feedback ist herzlich willkommen, um die Plattform kontinuierlich zu optimieren und weiterzuentwickeln.
-
-Hinweis: Diese Version von DIAS befindet sich in der finalen Bearbeitung und wird regelmäßig aktualisiert. Stand 12/2025
