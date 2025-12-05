@@ -1,4 +1,4 @@
-# DIAS - Der digitale Studienassistent
+# DIAS Bot - Der digitale Studienassistent
 
 Der Digitale Studienassistent. Der KI-basierte Assistent soll Studierende begleiten, sie motivieren und sie befähigen, ihr Studium besser zu organisieren und erfolgreich abzuschließen. 
 Er dient ihnen insbes. in vier Funktionen: als Planer, Kommunikator, Analysator und Motivator.
