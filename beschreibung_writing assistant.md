@@ -10,19 +10,19 @@ Die Academic Paper Writer kann innerhalb der DIAS-Plattform aufgerufen werden.
 
 ---
 
-Anleitung zum Academic Writer 
+## Anleitung zum Academic Writer 
 
 ---
 
 <img width="1323" height="987" alt="image" src="https://github.com/user-attachments/assets/00b31257-0a0d-4031-a945-6548e42e0e72" />
 
-1.)	Starte ein neues akademisches Dokument. Wähle den Dokumenttyp aus und öffne es im Editor, um mit dem Schreiben zu beginnen.
+# 1.)	Starte ein neues akademisches Dokument. Wähle den Dokumenttyp aus und öffne es im Editor, um mit dem Schreiben zu beginnen.
 
 ---
 
 <img width="945" height="161" alt="image" src="https://github.com/user-attachments/assets/68d8db75-9b51-46ec-bf74-588dc6e84144" />
 
-2.)	Du kannst zwischen drei verschiedenen Typen wählen
+# 2.)	Du kannst zwischen drei verschiedenen Typen wählen
 
 •	Texteditor
 •	Diagrammeditor
@@ -30,7 +30,8 @@ Anleitung zum Academic Writer
 
 ---
 
-Texteditor: Der Texteditor ist der zentrale Arbeitsbereich zum Schreiben wissenschaftlicher Dokumente. Hier kannst du Überschriften, Listen, Zitate, Codeblöcke und Tabellen verwenden, 
+##Texteditor 
+Der Texteditor ist der zentrale Arbeitsbereich zum Schreiben wissenschaftlicher Dokumente. Hier kannst du Überschriften, Listen, Zitate, Codeblöcke und Tabellen verwenden, 
 um deinen Text zu strukturieren. Oben befindet sich ein „Upload-Button“ hier kannst du Arbeiten hochladen, das Dokument exportieren oder es in Overleaf öffnen. 
 Der Zitationsassistent auf der rechten Seite zeigt dir deine Notizen an und ermöglicht es dir, diese während des Schreibens schnell in das Dokument zu kopieren oder einzufügen.
 
@@ -38,7 +39,8 @@ Der Zitationsassistent auf der rechten Seite zeigt dir deine Notizen an und erm�
 
 ---
 
-Diagrammeditor: Der Diagramm-Editor ermöglicht es dir, Ideen, Konzepte und Strukturen direkt in deinem wissenschaftlichen Projekt zu skizzieren. Verwende Formen, Pfeile, Handschrift und Rahmen, 
+## Diagrammeditor 
+Der Diagramm-Editor ermöglicht es dir, Ideen, Konzepte und Strukturen direkt in deinem wissenschaftlichen Projekt zu skizzieren. Verwende Formen, Pfeile, Handschrift und Rahmen, 
 um visuelle Erklärungen zu erstellen. Die Gestaltungsmöglichkeiten auf der linken Seite steuern Farben, Linien und Ebenen, 
 während das Panel auf der rechten Seite dein Diagramm mit derselben Papieranleitung und den Notizen verbindet, die du auch im Texteditor verwenden kannst.
 
@@ -46,7 +48,8 @@ während das Panel auf der rechten Seite dein Diagramm mit derselben Papieranlei
 
 ---
 
-Der Notizeditor: Der Notiz-Editor ist ein leichter Bereich für Aufgabenlisten, Ideen und Arbeitsnotizen, die zu einem wissenschaftlichen Projekt gehören. 
+## Der Notizeditor
+Der Notiz-Editor ist ein leichter Bereich für Aufgabenlisten, Ideen und Arbeitsnotizen, die zu einem wissenschaftlichen Projekt gehören. 
 Verwende Überschriften und nummerierte Listen, um nachzuverfolgen, was als Nächstes zu tun ist. Dieselbe Symbolleiste und derselbe Zitationsassistent wie im Haupteditor stehen zur Verfügung, 
 sodass du weiterhin Quellen anhängen oder eine kurze Notiz später in einen vollständig zitierten Abschnitt umwandeln kannst.
 
