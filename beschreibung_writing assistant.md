@@ -8,15 +8,24 @@ Dieser Service ist Teil des DIAS-Ökosystems.
 
 Die Academic Paper Writer kann innerhalb der DIAS-Plattform aufgerufen werden.
 
+---
+
 Anleitung zum Academic Writer 
+
+---
 
 <img width="1323" height="987" alt="image" src="https://github.com/user-attachments/assets/00b31257-0a0d-4031-a945-6548e42e0e72" />
 
 1.)	Starte ein neues akademisches Dokument. Wähle den Dokumenttyp aus und öffne es im Editor, um mit dem Schreiben zu beginnen.
 
+---
+
 <img width="945" height="161" alt="image" src="https://github.com/user-attachments/assets/68d8db75-9b51-46ec-bf74-588dc6e84144" />
 
 2.)	Du kannst zwischen drei verschiedenen Typen wählen
+
+---
+
 •	Texteditor
 •	Diagrammeditor
 •	Notizen
