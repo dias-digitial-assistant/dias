@@ -24,11 +24,11 @@ Anleitung zum Academic Writer
 
 2.)	Du kannst zwischen drei verschiedenen Typen wählen
 
----
-
 •	Texteditor
 •	Diagrammeditor
 •	Notizen
+
+---
 
 Texteditor: Der Texteditor ist der zentrale Arbeitsbereich zum Schreiben wissenschaftlicher Dokumente. Hier kannst du Überschriften, Listen, Zitate, Codeblöcke und Tabellen verwenden, 
 um deinen Text zu strukturieren. Oben befindet sich ein „Upload-Button“ hier kannst du Arbeiten hochladen, das Dokument exportieren oder es in Overleaf öffnen. 
