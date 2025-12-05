@@ -27,11 +27,15 @@ Der Zitationsassistent auf der rechten Seite zeigt dir deine Notizen an und erm�
 
 <img width="551" height="423" alt="image" src="https://github.com/user-attachments/assets/8b4952a4-a908-4a5b-80f2-5de2cd646c54" />
 
+
+
 Diagrammeditor: Der Diagramm-Editor ermöglicht es dir, Ideen, Konzepte und Strukturen direkt in deinem wissenschaftlichen Projekt zu skizzieren. Verwende Formen, Pfeile, Handschrift und Rahmen, 
 um visuelle Erklärungen zu erstellen. Die Gestaltungsmöglichkeiten auf der linken Seite steuern Farben, Linien und Ebenen, 
 während das Panel auf der rechten Seite dein Diagramm mit derselben Papieranleitung und den Notizen verbindet, die du auch im Texteditor verwenden kannst.
 
 <img width="548" height="423" alt="image" src="https://github.com/user-attachments/assets/7e1bdc0c-654a-4ee5-a3d5-8b290f52ccbd" />
+
+
 
 Der Notizeditor: Der Notiz-Editor ist ein leichter Bereich für Aufgabenlisten, Ideen und Arbeitsnotizen, die zu einem wissenschaftlichen Projekt gehören. 
 Verwende Überschriften und nummerierte Listen, um nachzuverfolgen, was als Nächstes zu tun ist. Dieselbe Symbolleiste und derselbe Zitationsassistent wie im Haupteditor stehen zur Verfügung, 
