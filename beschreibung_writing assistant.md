@@ -30,7 +30,7 @@ Die Academic Paper Writer kann innerhalb der DIAS-Plattform aufgerufen werden.
 
 ---
 
-##Texteditor 
+## Texteditor 
 Der Texteditor ist der zentrale Arbeitsbereich zum Schreiben wissenschaftlicher Dokumente. Hier kannst du Überschriften, Listen, Zitate, Codeblöcke und Tabellen verwenden, 
 um deinen Text zu strukturieren. Oben befindet sich ein „Upload-Button“ hier kannst du Arbeiten hochladen, das Dokument exportieren oder es in Overleaf öffnen. 
 Der Zitationsassistent auf der rechten Seite zeigt dir deine Notizen an und ermöglicht es dir, diese während des Schreibens schnell in das Dokument zu kopieren oder einzufügen.
