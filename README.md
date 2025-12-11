@@ -27,7 +27,7 @@ Der Hauptcampus liegt zentral in Ansbach auf einem ehemaligen Kasernengelände, 
 ### Praxisbezug und Umfeld
 Alle Studiengänge sind praxisorientiert, mit Projekten, Kooperationen und einem praktischen Studiensemester zur Vorbereitung auf den Berufseinstieg. Die Lage in der Metropolregion Nürnberg mit vielen mittelständischen Firmen und internationalen Unternehmen bietet gute Kontakte zur Wirtschaft und Karrierechancen.​
 
-## Stiftung Innovation in der Hochschullehre
+## [Stiftung Innovation in der Hochschullehre](https://stiftung-hochschullehre.de/)
 Die Stiftung verfolgt seit ihrem Start im Jahr 2021 das Ziel, Innovationen im Bereich des Lehrens und Lernens an Hochschulen zu ermöglichen und die Erneuerungsfähigkeit der Lehre kontinuierlich zu stärken. Sie versteht Hochschulen als Orte, an denen Studierende fachliches Wissen, Handlungskompetenz und persönliche Bildung erwerben, und sieht innovative Hochschullehre als Voraussetzung für gutes Lernen und Freude an Erkenntnis.  
 
 ### Auftrag und Zielsetzung
