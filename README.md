@@ -17,7 +17,7 @@ DIAS wurde von der Hochschule Ansbach mit offenen Front- und Backend für den Tr
 | **DIAS Writing Assistant**      | https://github.com/prof-schacht/academic_citation_assistant                                              
                                                                          | 2025-12 |
 | **DIAS Paper Hunt**             | https://github.com/ITZ-Neustadt/automated-research/tree/master                                           
-                                                                         | 2025-12 |
+                                                                        
 
 ---
 
