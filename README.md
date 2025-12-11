@@ -5,18 +5,16 @@
 
 DIAS wurde von der Hochschule Ansbach mit offenen Front- und Backend für den Transfer entwickelt. Im Folgenden sind die Links zu den Zugänge der unterschiedlichen Repositories des Projektes.
 
-### DIAS Services
-|DIAS Plattform|Beschreibung|HS-Transfer Zugang|Stand|
-|----|-----------|-----------------|----------------|
-|DIAS HS-Bot|Informationen rund um Studium und Hochschule 
-Link zur Beschreibung: https://github.com/dias-digitial-assistant/dias/blob/main/beschreibung_bot.md|https://github.com/dias-digitial-assistant/dias_mcp/tree/main|2025-12|
-|DIAS Lernsession-Editor|Lehrende generieren  Lernsessions für Studierende die über DIAS Tutor und Quiz zur Verfügung stehen|https://github.com/dias-digitial-assistant/dias_backend_learnplatform|2025-12|
-|DIAS Tutor|Chatte mit Dokumenten im Sokrates Modus um den Lernfortschritt zu reflektieren|https://github.com/dias-digitial-assistant/dias_backend_learnplatform|2025-12|
-|DIAS Quizmodel|Das Model generiert Frage-Antwort paare mit Antwortbewertung deine Antwort|https://github.com/dias-digitial-assistant/dias_backend_learnplatform|2025-12|
-|DIAS Lernplaner|Smarte Lernpläne mit Trackingfunktion und HS-Terminerinnerung|https://github.com/betiel-woldai/lernplan_new/tree/production-ready-v1|2025-12|
-|DIAS Studienfortschrittsprognose|Analyse des eigenen Studienfortschritts basierend auf bisherige Studienleistungen|https://github.com/dias-digitial-assistant/dias_v31/tree/feature/fortschrittsprognose-cleanup|2025-12|
-|DIAS Writing Assistant|Personalisierter Assistent zum wissenschaftlichem Schreiben|https://github.com/prof-schacht/academic-citation-assistant|2025-12|
-|DIAS Paper Hunt|Literaturrecherche Tool|https://github.com/TTZ-Neustadt/automated-research/tree/master|2025-12|
+| DIAS Plattform                  | Beschreibung                                                                                              | HS-Transfer Zugang                                                                                       | Stand    |
+|---------------------------------|-----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|----------|
+| **DIAS HS-Bot**                 | https://github.com/dias-digitial-assistant/dias/blob/main/beschreibung_bot.md                     | https://github.com/dias-digital-assistant/dias_mcp/tree/main                                               | 2025-12 |
+| **DIAS Lernsessions-Editor**    | https://github.com/dias-digitial-assistant/dias/blob/main/beschreibung_Lernplattform.md           | https://github.com/dias-digital-assistant/dias_backend_learnplatform                                     | 2025-12 |
+| **DIAS Tutor**                  | Chatte mit Dokumenten im [Sokrates-Modus](https://dias.hs-furtwangen.de/tutor) und reflektiere deinen Lernfortschritt | https://github.com/dias-digital-assistant/dias_backend_learnplatform                                     | 2025-12 |
+| **DIAS Quizmodell**             | Das Modell generiert Frage-Antwort-Paare mit [Antwortbewertung](https://dias.hs-furtwangen.de/quiz) deiner Antwort | https://github.com/dias-digital-assistant/dias_backend_learnplatform                                     | 2025-12 |
+| **DIAS Lernplaner**             | https://github.com/dias-digitial-assistant/dias/blob/main/beschreibung_lernplaner.md            |  https://github.com/betiel/lernplan_new/tree/production-ready-v1                                          | 2025-12 |
+| **DIAS Studienfortschritts­prognose** | Analyse des eigenen Studienfortschritts basierend auf bisherigen [Studienleistungen](https://fortschritt.dias.hs-furtwangen.de) | https://github.com/dias-digital-assistant/dias_v31/tree/feature/fortschrittsprognose-cleanup            | 2025-12 |
+| **DIAS Writing Assistant**      | Personalisierter Assistent zum [wissenschaftlichen Schreiben](https://writing.dias.hs-furtwangen.de)     | https://github.com/prof-schacht/academic_citation_assistant                                              | 2025-12 |
+| **DIAS Paper Hunt**             | [Literaturrecherche-Tool](https://paperhunt.dias.hs-furtwangen.de)                                        | https://github.com/ITZ-Neustadt/automated-research/tree/master                                           | 2025-12 |
 
 ---
 
