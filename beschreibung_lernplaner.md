@@ -15,7 +15,7 @@ Dieser Service ist Teil des DIAS-Ökosystems.
 ## Zugriff auf "University Events" im Lernkalender
 Wenn du auf den Button "University Events" klickst, erhältst du eine Übersicht über aktuelle und bevorstehende Hochschulveranstaltungen. Dies umfasst typischerweise Events wie Begrüßungen für Erstsemester, Blockwochen, Karrieretage, Prüfungsankündigungen, Wahlen und Absolventenfeiern, die mit Partneruniversitäten oder Hochschulen wie der Hochschule Ansbach verknüpft sind. Die Übersicht wird oft als Liste oder Kalender dargestellt, mit Optionen zur Anmeldung, detaillierten Programmen und Links zum Studierendenportal (z. B. www.hs-ansbach.de). Basierend auf dem aktuellen Datum (11. Dezember 2025) könnte ein relevantes Event die "Bekanntgabe der endgültigen Prüfungspläne" sein, die heute stattfindet. Der Zugriff ist meist für registrierte Nutzer (z. B. Premium oder Studierende) verfügbar und integriert sich in deinen Lernplan.
 
-# DIAS Lernplaner – Subjects
+## DIAS Lernplaner – Subjects
 
 <img width="1880" height="1022" alt="image" src="https://github.com/user-attachments/assets/1e095176-b010-4e29-877a-06b6bcb21bf8" />
 
@@ -23,7 +23,7 @@ Oben rechts:
 - Grüner Button **Start** → Hiermit beginnst du später die aktuelle Lernsession
 - Tabs: **Übersicht** (aktiv) | Fächer | Statistiken
 
-## Die aktuellen Fächer (3 Stück)
+# Die aktuellen Fächer (3 Stück)
 
 | Fach                              | Farbe  | Prüfung in     | Stunden/Woche | Tage/Woche | Intensitätswochen | Geplanter Gesamtaufwand | Fortschritt |
 |-----------------------------------|--------|----------------|---------------|------------|-------------------|--------------------------|-------------|
@@ -37,7 +37,7 @@ Oben rechts:
 - **Intensity Weeks** → die letzten 4 Wochen vor der Prüfung werden automatisch intensiver geplant (mehr Stunden)
 - **Progress** → wie viel du schon tatsächlich gelernt hast (hier noch alles bei 0)
 
-## Weitere Schritte
+# Weitere Schritte
 
 1. **Neues Fach anlegen** (falls du noch weitere Prüfungen hast)  
    → Klick auf den blauen Button **+ Fach hinzufügen**
