@@ -8,7 +8,8 @@ DIAS wurde von der Hochschule Ansbach mit offenen Front- und Backend für den Tr
 ### DIAS Services
 |DIAS Plattform|Beschreibung|HS-Transfer Zugang|Stand|
 |----|-----------|-----------------|----------------|
-|DIAS HS-Bot|Informationen rund um Studium und Hochschule Link zur Beschreibung https://github.com/dias-digitial-assistant/dias/blob/main/beschreibung_bot.md|https://github.com/dias-digitial-assistant/dias_mcp/tree/main|2025-12|
+|DIAS HS-Bot|Informationen rund um Studium und Hochschule 
+Link zur Beschreibung: https://github.com/dias-digitial-assistant/dias/blob/main/beschreibung_bot.md|https://github.com/dias-digitial-assistant/dias_mcp/tree/main|2025-12|
 |DIAS Lernsession-Editor|Lehrende generieren  Lernsessions für Studierende die über DIAS Tutor und Quiz zur Verfügung stehen|https://github.com/dias-digitial-assistant/dias_backend_learnplatform|2025-12|
 |DIAS Tutor|Chatte mit Dokumenten im Sokrates Modus um den Lernfortschritt zu reflektieren|https://github.com/dias-digitial-assistant/dias_backend_learnplatform|2025-12|
 |DIAS Quizmodel|Das Model generiert Frage-Antwort paare mit Antwortbewertung deine Antwort|https://github.com/dias-digitial-assistant/dias_backend_learnplatform|2025-12|
