@@ -15,6 +15,9 @@ Dieser Service ist Teil des DIAS-Ökosystems.
 ## Zugriff auf "University Events" im Lernkalender
 Wenn du auf den Button "University Events" klickst, erhältst du eine Übersicht über aktuelle und bevorstehende Hochschulveranstaltungen. Dies umfasst typischerweise Events wie Begrüßungen für Erstsemester, Blockwochen, Karrieretage, Prüfungsankündigungen, Wahlen und Absolventenfeiern, die mit Partneruniversitäten oder Hochschulen wie der Hochschule Ansbach verknüpft sind. Die Übersicht wird oft als Liste oder Kalender dargestellt, mit Optionen zur Anmeldung, detaillierten Programmen und Links zum Studierendenportal (z. B. www.hs-ansbach.de). Basierend auf dem aktuellen Datum (11. Dezember 2025) könnte ein relevantes Event die "Bekanntgabe der endgültigen Prüfungspläne" sein, die heute stattfindet. Der Zugriff ist meist für registrierte Nutzer (z. B. Premium oder Studierende) verfügbar und integriert sich in deinen Lernplan.
 
+<img width="1195" height="667" alt="image" src="https://github.com/user-attachments/assets/a712b6e9-c764-49e5-96a5-95d612fa368b" />
+
+
 ## DIAS Lernplaner – Subjects
 
 <img width="1880" height="1022" alt="image" src="https://github.com/user-attachments/assets/1e095176-b010-4e29-877a-06b6bcb21bf8" />
