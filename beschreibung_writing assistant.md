@@ -46,7 +46,8 @@ Der Diagramm-Editor ermöglicht es dir, Ideen, Konzepte und Strukturen direkt in
 um visuelle Erklärungen zu erstellen. Die Gestaltungsmöglichkeiten auf der linken Seite steuern Farben, Linien und Ebenen, 
 während das Panel auf der rechten Seite dein Diagramm mit derselben Papieranleitung und den Notizen verbindet, die du auch im Texteditor verwenden kannst.
 
-<img width="548" height="423" alt="image" src="https://github.com/user-attachments/assets/7e1bdc0c-654a-4ee5-a3d5-8b290f52ccbd" />
+<img width="552" height="421" alt="image" src="https://github.com/user-attachments/assets/e5eccb33-034a-446e-98e8-554b34ffd1b4" />
+
 
 ---
 
