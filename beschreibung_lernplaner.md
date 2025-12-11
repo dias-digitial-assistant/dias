@@ -57,6 +57,35 @@ Oben rechts:
 4. **Lernen starten**  
    Wenn der Plan steht → einfach jeden Tag auf den großen grünen **Start**-Button klicken und loslernen.
 
+# Progress Analytics – Deine Lern-Statistiken
+<img width="1835" height="847" alt="image" src="https://github.com/user-attachments/assets/cbbb0150-9304-44aa-a78c-035477cd8db7" />
+
+Reiter **Analytics** (oben rechts der dritte Tab).
+
+## Aktueller Stand (This Month – Dezember 2025)
+
+| Statistik                  | Wert      | Bedeutung                                                                 |
+|----------------------------|-----------|---------------------------------------------------------------------------|
+| **Total Hours**            | 0 h       | Bisher insgesamt 0 Stunden gelernt                                 |
+| **Sessions**               | 0         | Bisher noch keine Lernsession gestartet/abgeschlossen                    |
+| **Total XP**               | 0         | Erfahrungspunkte (Gamification) – noch nichts gesammelt                   |
+| **Completed**              | 0         | 0 von 0 Sessions abgeschlossen (noch kein Plan aktiv)                     |
+| **Success Rate**           | 0 %       | Erfolgsquote bei abgeschlossenen Sessions (noch keine Daten)              |
+
+→ Alles steht auf 0, weil wir noch keine Lernsessions durchgeführt haben ( Einrichtungsphase).
+
+## Learning Progress Over Time (Linien-Diagramm links)
+- X-Achse: Tage im Dezember (Dec 1 bis Dec 31)
+- Y-Achse: Fortschritt in Stunden (0.0 bis 1.0)
+- Aktuelle Linie: komplett flach auf 0.0 h
+→ Sobald du die ersten Sessions machst, steigt hier eine blaue Linie nach oben.
+
+## Time Distribution by Subject (Kreis-Diagramm rechts)
+- Zeigt, wie sich deine Lernzeit auf die verschiedenen Fächer verteilt
+- Aktueller Zustand: nur grauer Kreis mit „No Data“
+→ Sobald du für mindestens ein Fach Zeit investiert hast, wird das bunt (z. B. Grün für Digitale Geschäftsprozesse, Rot für Geschäftsmodelle, Blau für KI usw.)
+
+Kurz gesagt: Diese Analytics-Seite bleibt so lange leer/grau, bis du wirklich angefangen hast zu lernen. Sobald die ersten Sessions laufen, wird das hier dein Motivations-Dashboard!
 
 ### Funktionsweise
 
