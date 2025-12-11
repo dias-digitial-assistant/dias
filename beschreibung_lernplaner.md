@@ -63,12 +63,12 @@ Oben rechts:
 
 <img width="1861" height="963" alt="image" src="https://github.com/user-attachments/assets/351efd44-4540-446c-bfca-ab9801b7b563" />
 
-3. Klick rechts auf den blauen Button  
+2. Klick rechts auf den blauen Button  
    ➜ **+ Fach hinzufügen**
    
 <img width="1832" height="1007" alt="image" src="https://github.com/user-attachments/assets/e1f9bd47-fdb6-4bd0-9df2-bab330a476ee" />
 
-4. Jetzt öffnet sich das Fenster „Add New Subject“ – fülle alles aus:
+3. Jetzt öffnet sich das Fenster „Add New Subject“ – fülle alles aus:
 
 <img width="1515" height="884" alt="image" src="https://github.com/user-attachments/assets/74736e7c-8224-40a2-a377-1adbc6cc426a" />
 
@@ -80,7 +80,7 @@ Oben rechts:
    - **Days per Week** → an wie vielen Tagen pro Woche? (z. B. 3)  
    - **Intensity Weeks** → meistens 4 Wochen vor der Prüfung (kannst du so lassen)
 
-6. Unten rechts auf **Add New Subject** klicken
+4. Unten rechts auf **Add New Subject** klicken
 
 - Fertig! Das Fach ist jetzt in deiner Liste und DIAS legt automatisch deinen Lernplan im Kalender an.
 
