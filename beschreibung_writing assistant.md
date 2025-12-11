@@ -20,7 +20,8 @@ Die Academic Paper Writer kann innerhalb der DIAS-Plattform aufgerufen werden.
 
 ---
 
-<img width="945" height="161" alt="image" src="https://github.com/user-attachments/assets/68d8db75-9b51-46ec-bf74-588dc6e84144" />
+<img width="1556" height="247" alt="image" src="https://github.com/user-attachments/assets/29ff0e7a-8fb5-401e-aa2e-00a8ea0f5a0a" />
+
 
 ## 2.)	Du kannst zwischen drei verschiedenen Typen wählen
 
