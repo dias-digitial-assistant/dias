@@ -1,5 +1,47 @@
 # DIAS Platform Overview
 
+## [DIAS](https://www.hs-ansbach.de/forschung/projekte/dias-der-digitale-studienassistent)
+Das Projekt DIAS an der Hochschule Ansbach ist ein digitaler, KI-gestützter Assistent, der seit Oktober 2021 Studierende im Studium begleitet und sie dabei unterstützt, ihr Studium besser zu organisieren und erfolgreich abzuschließen. Es vereint Funktionen als Planer, Motivator, Analysator und Kommunikator in einer eigenen Webapplikation, über die Studierende alle Module zentral nutzen können.  
+
+### Ziel und Nutzen
+DIAS zielt darauf ab, individuelle Betreuung zu fördern, die Motivation zu steigern, das Selbstmanagement zu unterstützen und die Abbrecherquote zu senken, indem Informationen transparenter, strukturierter und leichter zugänglich gemacht werden. Gleichzeitig entlastet das System Verwaltung und Lehrende, indem es Routineanfragen bündelt und den Informationsfluss verbessert.  
+
+### Zentrale Funktionen
+Über die DIAS-Plattform stehen mehrere KI-Modelle zur Verfügung, darunter eine adaptive Lernplattform mit Quiz- und Tutor-Modell, ein Lernplaner zur Organisation des Studienalltags, eine Studienfortschrittsprognose als Frühwarnsystem sowie ein Hochschul-Bot, der studienrelevante Informationen rund um die Uhr in natürlicher Sprache bereitstellt. Ergänzend unterstützt DIAS mit Tools wie dem Paper-Hunt-Modell und dem Academic Citation Assistant die wissenschaftliche Literaturrecherche und das Schreiben von Arbeiten.  
+
+### Entwicklung und Offenheit
+DIAS wurde in mehreren Iterationen mit realen Nutzenden getestet und kontinuierlich verbessert, vom Pilotbetrieb auf der Hochschul-Startseite bis zur heutigen Webapplikation, die alle Funktionen bündelt. Die Lösung ist als Open Source mit offenem Front- und Backend verfügbar, sodass andere Hochschulen und Projekte die Modelle nachnutzen und weiterentwickeln können.
+
+## [Hochschule Ansbach](https://www.hs-ansbach.de/startseite/)
+Die Hochschule Ansbach ist eine junge, staatliche Hochschule für angewandte Wissenschaften in Bayern mit starkem Praxisbezug und regionaler Verankerung. Sie wurde 1996 gegründet und hat ihren Hauptcampus in der mittelfränkischen Stadt Ansbach.​
+
+### Profil und Größe
+An der Hochschule studieren derzeit rund 3.000 bis 4.000 Studierende in Bachelor- und Masterstudiengängen. Das Studienangebot verteilt sich auf die drei Fakultäten Technik, Wirtschaft und Medien.​
+
+### Studienangebot und Schwerpunkte
+Es gibt knapp 20 Bachelor- und rund 10 bis 15 Masterstudiengänge, darunter auch duale und berufsbegleitende Programme. Schwerpunkte liegen in Wirtschaft, IT, Ingenieurwissenschaften, Biotech, Nachhaltigkeit, Kommunikation, Medien und Künstlicher Intelligenz.​
+
+### Campus und Standorte
+Der Hauptcampus liegt zentral in Ansbach auf einem ehemaligen Kasernengelände, das zu einem modernen Hochschulcampus umgebaut wurde. Zur Hochschule gehören außerdem mehrere Außenstellen, zum Beispiel in Feuchtwangen, Rothenburg ob der Tauber, Herrieden und Weißenburg.​
+
+### Praxisbezug und Umfeld
+Alle Studiengänge sind praxisorientiert, mit Projekten, Kooperationen und einem praktischen Studiensemester zur Vorbereitung auf den Berufseinstieg. Die Lage in der Metropolregion Nürnberg mit vielen mittelständischen Firmen und internationalen Unternehmen bietet gute Kontakte zur Wirtschaft und Karrierechancen.​
+
+## Stiftung Innovation in der Hochschullehre
+Die Stiftung verfolgt seit ihrem Start im Jahr 2021 das Ziel, Innovationen im Bereich des Lehrens und Lernens an Hochschulen zu ermöglichen und die Erneuerungsfähigkeit der Lehre kontinuierlich zu stärken. Sie versteht Hochschulen als Orte, an denen Studierende fachliches Wissen, Handlungskompetenz und persönliche Bildung erwerben, und sieht innovative Hochschullehre als Voraussetzung für gutes Lernen und Freude an Erkenntnis.  
+
+### Auftrag und Zielsetzung
+Im Mittelpunkt steht die Förderung einer zukunftsorientierten Hochschullehre, die Studierenden qualitativ hochwertige Lernprozesse ermöglicht. Dafür setzt die Organisation Impulse, um Lehrkonzepte weiterzuentwickeln und Lehrende bei der Umsetzung innovativer Ansätze zu unterstützen.  
+
+### Förderaktivitäten
+Die Organisation fördert auf Basis wissenschaftsgeleiteter Auswahlverfahren Projekte, die entweder an einzelnen Hochschulen angesiedelt sind oder im Verbund mehrerer Einrichtungen durchgeführt werden. Ergänzend werden Vernetzungsangebote für Lehrgestaltende geschaffen, der Austausch über Projektergebnisse, Erfolge und Herausforderungen unterstützt und gemeinsames Wissen systematisch zugänglich gemacht.  
+
+### Zusammenarbeit mit der Community
+Im Dialog mit Angehörigen der Hochschulen werden Bedarfe, neue Themen und Fragestellungen kontinuierlich aufgegriffen und weiterentwickelt. Dabei gilt das Prinzip „Aus der Community für die Community“, sodass Programm und Förderung der gesamten Breite der deutschen Hochschullandschaft zugutekommen.  
+
+### Finanzierung
+Zur Umsetzung dieses Auftrags erhält die Organisation jährlich ein Budget von 150 Millionen Euro, das gemeinsam von Bund und Ländern bereitgestellt wird. Dieses Budget bildet die Grundlage für die langfristige und flächendeckende Unterstützung innovativer Hochschullehre.
+
 ## Model Overview
 <img width="1016" height="838" alt="image" src="https://github.com/user-attachments/assets/e4383517-63b0-4c4e-8909-d1db22d3d292" />
 
