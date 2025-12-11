@@ -9,10 +9,10 @@ DIAS wurde von der Hochschule Ansbach mit offenen Front- und Backend für den Tr
 |---------------------------------|-----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|----------|
 | **DIAS HS-Bot**                 | https://github.com/dias-digitial-assistant/dias/blob/main/beschreibung_bot.md                     | https://github.com/dias-digital-assistant/dias_mcp/tree/main                                               | 2025-12 |
 | **DIAS Lernsessions-Editor**    | https://github.com/dias-digitial-assistant/dias/blob/main/beschreibung_Lernplattform.md           | https://github.com/dias-digital-assistant/dias_backend_learnplatform                                     | 2025-12 |
-| **DIAS Tutor**                  | Chatte mit Dokumenten im Sokrates-Modus(https://dias.hs-furtwangen.de/tutor) und reflektiere deinen Lernfortschritt | https://github.com/dias-digital-assistant/dias_backend_learnplatform                                     | 2025-12 |
+| **DIAS Tutor**                  | Chatte mit Dokumenten im Sokrates-Modus und reflektiere deinen Lernfortschritt | https://github.com/dias-digital-assistant/dias_backend_learnplatform                                     | 2025-12 |
 | **DIAS Quizmodell**             | Das Modell generiert Frage-Antwort-Paare mit Antwortbewertung deiner Antwort | https://github.com/dias-digital-assistant/dias_backend_learnplatform                                     | 2025-12 |
 | **DIAS Lernplaner**             | https://github.com/dias-digitial-assistant/dias/blob/main/beschreibung_lernplaner.md            |  https://github.com/betiel/lernplan_new/tree/production-ready-v1                                          | 2025-12 |
-| **DIAS Studienfortschritts­prognose** | Analyse des eigenen Studienfortschritts basierend auf bisherigen Studienleistungen | https://github.com/dias-digital-assistant/dias_v31/tree/feature/fortschrittsprognose-cleanup            | 2025-12 |
+| **DIAS Studienfortschritts­prognose**  | https://github.com/dias-digital-assistant/dias_v31/tree/feature/fortschrittsprognose-cleanup            | 2025-12 |
 | **DIAS Writing Assistant**      | https://github.com/prof-schacht/academic_citation_assistant                                              | 2025-12 |
 | **DIAS Paper Hunt**             | https://github.com/ITZ-Neustadt/automated-research/tree/master                                           | 2025-12 |
 
