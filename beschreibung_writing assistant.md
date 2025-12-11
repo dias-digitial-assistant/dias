@@ -46,7 +46,7 @@ Der Diagramm-Editor ermöglicht es dir, Ideen, Konzepte und Strukturen direkt in
 um visuelle Erklärungen zu erstellen. Die Gestaltungsmöglichkeiten auf der linken Seite steuern Farben, Linien und Ebenen, 
 während das Panel auf der rechten Seite dein Diagramm mit derselben Papieranleitung und den Notizen verbindet, die du auch im Texteditor verwenden kannst.
 
-<img width="552" height="421" alt="image" src="https://github.com/user-attachments/assets/e5eccb33-034a-446e-98e8-554b34ffd1b4" />
+<img width="552" height="421" alt="image" src="https://github.com/user-attachments/assets/bd8b7d21-d733-495a-bc0d-88a9bb3e7770" />
 
 
 ---
@@ -56,7 +56,8 @@ Der Notiz-Editor ist ein leichter Bereich für Aufgabenlisten, Ideen und Arbeits
 Verwende Überschriften und nummerierte Listen, um nachzuverfolgen, was als Nächstes zu tun ist. Dieselbe Symbolleiste und derselbe Zitationsassistent wie im Haupteditor stehen zur Verfügung, 
 sodass du weiterhin Quellen anhängen oder eine kurze Notiz später in einen vollständig zitierten Abschnitt umwandeln kannst.
 
-<img width="576" height="423" alt="image" src="https://github.com/user-attachments/assets/225bff31-ae08-402a-b4a1-abb4c60f3519" />
+<img width="552" height="421" alt="image" src="https://github.com/user-attachments/assets/92abbb4f-d9db-4fc0-a93d-0375a445eb6e" />
+
 
 ---
 
