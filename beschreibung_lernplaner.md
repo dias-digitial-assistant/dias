@@ -57,6 +57,31 @@ Oben rechts:
 4. **Lernen starten**  
    Wenn der Plan steht → einfach jeden Tag auf den großen grünen **Start**-Button klicken und loslernen.
 
+# Neues Fach anlegen - Schritt-für-Schritt
+
+<img width="1515" height="884" alt="image" src="https://github.com/user-attachments/assets/74736e7c-8224-40a2-a377-1adbc6cc426a" />
+
+1. Öffne die App → gehe oben auf den Reiter **Fächer**
+
+2. Klick rechts auf den blauen Button  
+   ➜ **+ Fach hinzufügen**
+
+3. Jetzt öffnet sich das Fenster „Add New Subject“ – fülle alles aus:
+
+   - **Subject Name** → z. B. Mathe, BWL, Englisch  
+   - **Subject Color** → wähle deine Wunschfarbe aus  
+   - **Start Date** → wann willst du loslegen? (Datum auswählen)  
+   - **Exam Date** → wann ist die Prüfung/Klausur? (Datum auswählen)  
+   - **Hours per Week** → wie viele Stunden pro Woche? (z. B. 5)  
+   - **Days per Week** → an wie vielen Tagen pro Woche? (z. B. 3)  
+   - **Intensity Weeks** → meistens 4 Wochen vor der Prüfung (kannst du so lassen)
+
+4. Unten rechts auf **Add New Subject** klicken
+
+- Fertig! Das Fach ist jetzt in deiner Liste und DIAS legt automatisch deinen Lernplan im Kalender an.
+
+**Bonus-Tipp**: Du kannst das Fach später jederzeit anklicken und Stunden, Farbe oder Datum nachträglich ändern.
+
 # Progress Analytics – Deine Lern-Statistiken
 <img width="1835" height="847" alt="image" src="https://github.com/user-attachments/assets/cbbb0150-9304-44aa-a78c-035477cd8db7" />
 
