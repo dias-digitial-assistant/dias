@@ -35,7 +35,8 @@ Der Texteditor ist der zentrale Arbeitsbereich zum Schreiben wissenschaftlicher 
 um deinen Text zu strukturieren. Oben befindet sich ein „Upload-Button“ hier kannst du Arbeiten hochladen, das Dokument exportieren oder es in Overleaf öffnen. 
 Der Zitationsassistent auf der rechten Seite zeigt dir deine Notizen an und ermöglicht es dir, diese während des Schreibens schnell in das Dokument zu kopieren oder einzufügen.
 
-<img width="551" height="423" alt="image" src="https://github.com/user-attachments/assets/8b4952a4-a908-4a5b-80f2-5de2cd646c54" />
+<img width="446" height="338" alt="image" src="https://github.com/user-attachments/assets/e0b2e019-0b61-442b-a8b5-21604e68a2ce" />
+
 
 ---
 
