@@ -35,9 +35,9 @@ Oben rechts:
 - **Hours/Week** → wie viele Stunden du normalerweise pro Woche für dieses Fach lernen willst
 - **Days/Week** → an wie vielen Tagen pro Woche du lernen möchtest
 - **Intensity Weeks** → die letzten 4 Wochen vor der Prüfung werden automatisch intensiver geplant (mehr Stunden)
-- **Progress** → wie viel du schon tatsächlich gelernt hast (bei dir noch alles bei 0)
+- **Progress** → wie viel du schon tatsächlich gelernt hast (hier noch alles bei 0)
 
-## Was du als Nächstes tun solltest (Anleitung)
+## Weitere Schritte
 
 1. **Neues Fach anlegen** (falls du noch weitere Prüfungen hast)  
    → Klick auf den blauen Button **+ Fach hinzufügen**
