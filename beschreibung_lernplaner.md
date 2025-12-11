@@ -117,7 +117,33 @@ Reiter **Analytics** (oben rechts der dritte Tab).
 - Aktueller Zustand: nur grauer Kreis mit „No Data“
 → Sobald du für mindestens ein Fach Zeit investiert hast, wird das bunt (z. B. Grün für Digitale Geschäftsprozesse, Rot für Geschäftsmodelle, Blau für KI usw.)
 
-Kurz gesagt: Diese Analytics-Seite bleibt so lange leer/grau, bis du wirklich angefangen hast zu lernen. Sobald die ersten Sessions laufen, wird das hier dein Motivations-Dashboard!
+<img width="1830" height="1012" alt="image" src="https://github.com/user-attachments/assets/a38b212c-7f53-4a73-9e22-c5dbee4c4a24" />
+
+### DIAS – Statistik-Übersicht 
+
+#### 🔴 Streak (Lernsträhne)
+- Aktuelle Lernsträhne liegt bei **0 Tagen**  
+- Der Graph zeigt, dass wir Ende November noch wenig aktiv waren, aber seit ca. 1. Dezember keine Lernsessions mehr eingetragen haben.
+
+#### 📊 Zielfortschritt pro Fach
+Alle Fächer haben noch **35 Tage bis zur Prüfung** und zeigen aktuell **0 % Fortschritt**:
+
+| Fach                              | Geplante Stunden | Erreicht   | Fortschritt |
+|-----------------------------------|------------------|------------|-------------|
+| Angewandte Künstliche Intelligenz I und II | 27 h            | 0 h        | 0 %         |
+| Digitale Geschäftsmodelle         | 18 h             | 0 h        | 0 %         |
+| Digitale Geschäftsprozesse        | 9 h              | 0 h        | 0 %         |
+
+#### 📋 Fachdetails (Zusammenfassung)
+| Farbe | Fach                              | Gelernte Stunden | Sessions | Fortschritt |
+|-------|-----------------------------------|------------------|----------|-------------|
+| 🟢     | Digitale Geschäftsprozesse        | 0 h              | 0        | 0 %         |
+| 🔴     | Digitale Geschäftsmodelle         | 0 h              | 0        | 0 %         |
+| 🔵     | Angewandte Künstliche Intelligenz I und II | 0 h     | 0        | 0 %         |
+
+**Fazit:**  
+Wir haben die Fächer und den Lernplan bereits super eingerichtet – jetzt fehlt nur noch der Start!   
+Sobald du deine erste Lernsitzung einträgst (über den grünen **Start**-Button), beginnen Streak und Fortschritt zu laufen.
 
 ### Funktionsweise
 
