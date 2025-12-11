@@ -145,6 +145,29 @@ Alle Fächer haben noch **35 Tage bis zur Prüfung** und zeigen aktuell **0 % Fo
 Wir haben die Fächer und den Lernplan bereits super eingerichtet – jetzt fehlt nur noch der Start!   
 Sobald du deine erste Lernsitzung einträgst (über den grünen **Start**-Button), beginnen Streak und Fortschritt zu laufen.
 
+<img width="1855" height="972" alt="image" src="https://github.com/user-attachments/assets/5d236ec8-fcbe-4237-9556-4844bb9c2129" />
+
+<img width="1867" height="948" alt="image" src="https://github.com/user-attachments/assets/f381b789-0f59-4152-9f23-3bd03420644b" />
+
+Du hast oben rechts auf den großen grünen **Start**-Button geklickt → deshalb ist jetzt mittig dieses kleine Popup-Fenster offen:
+
+**Start Learning Session**  
+*Choose a subject to begin*
+
+Du kannst jetzt eines von diesen drei Fächern auswählen:
+- 🟢 Digitale Geschäftsprozesse  
+- 🔴 Digitale Geschäftsmodelle  
+- 🔵 Angewandte Künstliche Intelligenz I und II
+
+Danach einfach unten rechts auf  
+➡️ **Start Session** klicken.
+
+Falls du doch nicht willst: links auf **Cancel** und das Fenster schließt sich wieder.
+
+Links siehst du deinen Lernkalender für Dezember 2025, rechts deine aktuellen Stats (noch alles bei 0: XP, Stunden heute, Streak).
+
+Kurz: Ein Fach antippen → „Start Session“ → und du legst direkt los! 🚀
+
 ### Funktionsweise
 
 - Intelligente Terminplanung (Learning Calendar)
