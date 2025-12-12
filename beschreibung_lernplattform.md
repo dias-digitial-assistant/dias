@@ -75,14 +75,8 @@ Danach kannst du im Reiter **Ziele verwalten** und **Fragen verwalten** alles we
 
 **Zielerstellungsmethode wählen:**
 
-- 🔘 **KI-generierte Ziele**  
-- ⚪ Manuelle Zielerstellung
-
-**Anzahl der Lernziele (3-10):**  
-`6` (Schieberegler auf 6)
-
-
-
+- **KI-generierte Ziele**  
+- Manuelle Zielerstellung
 
 
 # 2. Das Quiz-Model für Studierende
