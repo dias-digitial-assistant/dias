@@ -29,11 +29,11 @@ Funktionen:
 Bereich: KI-gestützte Autorenumgebung für Lehrkräfte und Ausbilder
 Zweck: Schnelle Erstellung digitaler Lerninhalte durch automatisierte Generierung von Lernzielen, Fragen und Bewertungen aus hochgeladenen PDFs
 
-## Modul erstellen
 
-<img width="1457" height="978" alt="image" src="https://github.com/user-attachments/assets/8e454bb8-cc35-4455-903e-67196c07a13e" />
 
 # Modul erstellen
+
+<img width="1457" height="978" alt="image" src="https://github.com/user-attachments/assets/8e454bb8-cc35-4455-903e-67196c07a13e" />
 
 Auf dieser Seite legen Lehrende / Dozenten ein neues Lernmodul an.  
 Die Plattform generiert anschließend automatisch Lernziele, Fragen und Lernsessions aus dem hochgeladenen Material.
@@ -63,7 +63,7 @@ Die Plattform generiert anschließend automatisch Lernziele, Fragen und Lernsess
 
 Danach kannst du im Reiter **Ziele verwalten** und **Fragen verwalten** alles weiter anpassen.
 
-<img width="1742" height="977" alt="image" src="https://github.com/user-attachments/assets/4f1d386f-4f08-45ee-9912-b4a91ef60008" />
+
 
 
 
