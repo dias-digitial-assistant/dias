@@ -83,6 +83,38 @@ Danach kannst du im Reiter **Ziele verwalten** und **Fragen verwalten** alles we
 
 <img width="1797" height="975" alt="image" src="https://github.com/user-attachments/assets/d7484863-1071-4666-bfce-a4d6db97f570" />
 
+## Lehrenden-Modul – Übersicht & Erklärung
+
+Der Bereich „Lehrenden-Modul verwenden“ ist exklusiv für Lehrende (Professor:innen, Dozent:innen, Tutor:innen, Lehrbeauftragte).
+Hier geht es nicht darum, eigene Dokumente hochzuladen, sondern fertige, didaktisch geprüfte Lern- und Quizmodule direkt einzusetzen.
+
+1.) Modul auswählen
+Aus einer zentralen Bibliothek ein passendes Modul wählen (z. B. „BGB AT“, „Kostenrechnung“, „StrafrechtI“, „Organische Chemie“ usw.).
+
+2.) Alles ist bereits vorbereitet
+- Klare Lernziele
+- Geprüfte Fragen (MC, offene Fragen, Lückentexte, Zuordnungen)
+- Karteikarten & Zusammenfassungen inklusive
+
+3.) Modul der Lerngruppe zuweisen
+- Mit einem Klick dem gesamten Kurs, einem Seminar oder einzelnen Studierenden freigeben.
+
+4.) Fortschritt & Ergebnisse einsehen
+- Live-Übersicht: Wer hat wie viel bearbeitet?
+- Erfolgsquoten pro Thema
+- Schwachstellen der Gruppe sofort erkennen → gezielt im Unterricht nachbereiten
+
+Vorteile für dich als Lehrende:r
+
+- Einheitlicher Wissensstand in der Gruppe
+- Minimaler Vorbereitungsaufwand
+- Datenbasierte Erkennung von Verständnisproblemen
+- Module semesterübergreifend wiederverwendbar
+- Hohe fachliche Qualität durch Experten-Check
+
+Mit dem Lehrenden-Modul wählst du mit einem Klick ein fertiges, hochwertiges Lern- und Quizpaket aus, 
+gibst es deinen Studierenden und behältst den gesamten Lernfortschritt im Blick – effizienter geht Unterricht kaum!
+
 
 Beschreibung: Übe mit vorbereiteten Modulen oder erstelle deine eigenen Lernmaterialien
 
