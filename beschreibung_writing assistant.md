@@ -13,56 +13,6 @@ Die Academic Paper Writer kann innerhalb der DIAS-Plattform aufgerufen werden.
 
 Die Funktionen decken einen vollständigen Schreib- und Rechercheprozess ab: Von der Aufnahme von Inhalten über die Generierung neuer Elemente bis hin zur finalen Überprüfung und Formatierung. Der Nutzen liegt in der Automatisierung zeitintensiver Aufgaben, der Vermeidung von Fehlern (z. B. Plagiat) und der Steigerung der Produktivität – ideal für Studierende, Forscher oder Autoren. Im Folgenden werden die Funktionalitäten ausführlich erklärt.
 
-# 1. Dokumentenmanagement und Speicherung
-
-Funktionalität: Der Assistant speichert hochgeladene Dokumente (z. B. PDFs mit bis zu 500 Wörtern) oder extrahierte Inhalte sicher. 
-Er integriert semantische Suchen, um relevante Abschnitte zu finden, und erlaubt das Hinzufügen neuer Texte ohne die Struktur zu verändern.
-Nutzen: Ermöglicht eine zentrale "Bibliothek" für Recherche-Material, reduziert den Suchaufwand und schützt vor Datenverlust. 
-Zum Beispiel kann ein Nutzer ein PDF hochladen, und der Assistant extrahiert automatisch Schlüsselstellen für spätere Verwendung.
-Zusammenhänge: Diese Funktionen bilden die Basis für alle anderen – ohne sichere Speicherung könnte keine semantische Integration oder Text-Erstellung erfolgen. 
-
-# 2. Generierung von Inhalten
-
-Funktionalität: Basierend auf Nutzer-Eingaben (z. B. Themen oder Skizzen) erstellt der Assistant kohärenten Text oder Diagramme. 
-Er verwendet Dialoge, um Inhalte zu verfeinern, und integriert sie in bestehende Dokumente.
-Nutzen: Spart Zeit bei der Brainstorming-Phase und hilft bei kreativen Blockaden. Ein Nutzer beschreibt ein Thema, und der Assistant generiert einen strukturierten Absatz oder ein Diagramm, das direkt anpassbar ist – ideal für Berichte oder Präsentationen.
-Zusammenhänge: Baut auf Speicherung auf (z. B. integriert gespeicherte Texte aus Zeile 1) und fließt in die Recherche, 
-wo generierte Inhalte mit Quellen verknüpft werden. Dies schafft einen iterativen Schreibfluss: Generieren → Überprüfen → Verfeinern.
-
-# 3. Recherche und Quellenintegration
-
-Funktionalität: Der Assistant schlägt relevante Zitate, Quellen oder semantisch ähnliche Inhalte vor (z. B. aus 200+ Quellen). 
-Er sucht nach Überschneidungen in bis zu 3 Dokumenten und liefert APA- oder MLA-formatierte Ergebnisse für 3 Suchanfragen.
-Nutzen: Minimiert Recherchezeit und stellt Genauigkeit sicher, indem er faktenbasierte Vorschläge macht. 
-Für eine Anfrage wie "Auswirkungen von KI auf Bildung" findet er passende Studien und integriert sie nahtlos.
-Zusammenhänge: Verknüpft Generierung mit Zitaten, um plagiatfreies Schreiben zu gewährleisten. 
-Die semantische Suche verbessert die Qualität von Vorschlägen, was den gesamten Prozess evidenzbasiert macht.
-
-# 4. Formatierung und Anpassung 
-
-Funktionalität: Wandelt Texte in Formate wie APA um, schlägt Umformulierungen vor (z. B. für Klarheit oder Länge) und passt Inhalte an Zielgruppen an.
-Nutzen: Sorgt für professionelle Präsentation, z. B. durch automatische APA-Formatierung einer 7. Auflage-Edition. 
-Der Nutzer erhält Vorschläge wie "Kürzen Sie diesen Satz für bessere Lesbarkeit", was die Zugänglichkeit steigert.
-Zusammenhänge: Schließt den Kreis zu Recherche, indem formatierte Zitate in finale Dokumente einfließen. 
-Dies interagiert mit Überprüfungen, um konsistente Qualität zu gewährleisten.
-
-# 5. Überprüfung und Optimierung
-
-Funktionalität: Führt semantische Analysen durch, um Text auf Kohärenz zu prüfen, und schlägt Anpassungen vor (z. B. fehlende Quellen oder unpassende Formulierungen).
-Nutzen: Verhindert Fehler wie Inkonsistenzen oder fehlende Zitate, was die Glaubwürdigkeit erhöht. Der Assistant markiert z. B. "Diese Passage braucht eine Quelle" und schlägt Alternativen vor.
-Zusammenhänge: Greift auf alle vorherigen Schritte zurück – z. B. prüft er generierte Texte auf Übereinstimmung mit Quellen. 
-Dies ist der "Qualitätsfilter" vor der finalen Ausgabe.
-
-# Gesamte Zusammenhänge und Nutzen des Systems
-Jede Funktion ist modular, aber vernetzt – z. B. fließt eine gespeicherte Quelle in die Generierung, Recherche und Formatierung ein. Der Nutzen umfasst:
-
-# Effizienz: Reduziert manuellen Aufwand.
-Genauigkeit: Vermeidet Plagiat durch automatisierte Zitationsvorschläge.
-Skalierbarkeit: Geeignet für kurze E-Mails bis zu langen Abschlussarbeiten.
-Lernkurve: Durch interaktive Vorschläge lernt der Nutzer, besser zu schreiben.
-
-Insgesamt fördert der Assistant kreatives, ethisches Schreiben, indem er Routineaufgaben übernimmt und den Fokus auf Inhalte lenkt.
-
 ---
 
 ## Anleitung zum Academic Writer 
