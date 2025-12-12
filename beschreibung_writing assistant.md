@@ -5,6 +5,8 @@ vergleichen und direkt in ihre wissenschaftliche Arbeit einbetten können.
 
 <img width="445" height="517" alt="image" src="https://github.com/user-attachments/assets/0da9332e-e4a8-4c52-9e66-f929ce987064" />
 
+Link zum Repository: [Link](https://github.com/prof-schacht/academic-citation-assistant)
+
 Dieser Service ist Teil des DIAS-Ökosystems.
 
 Die Academic Paper Writer kann innerhalb der DIAS-Plattform aufgerufen werden.
