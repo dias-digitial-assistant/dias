@@ -91,9 +91,53 @@ Beschreibung: Übe mit vorbereiteten Modulen oder erstelle deine eigenen Lernmat
 - Beantworte Fragen und erhalte Feedback - Sofortige Rückmeldung zu Antworten mit detaillierten Erklärungen
 - Lernfortschritt verfolgen - Tracking deiner Entwicklung und Identifikation von Wissenslücken
 
+## Lehrenden-Modul verwenden
+
 ![Quizmodel](https://github.com/user-attachments/assets/2712ac76-970c-4d2d-94a5-667aa5f873d2)
 
+## Selbstlernmodus
+<img width="1618" height="967" alt="image" src="https://github.com/user-attachments/assets/352cd78e-46bc-4e1a-b7b9-97c8f73c543a" />
 
+Was ist der Selbstlernmodus?
+Der Selbstlernmodus ist eine KI-gestützte Funktion auf Lernplattformen, der es Studierenden ermöglicht, 
+aus eigenen Lernunterlagen automatisch personalisierte Quizfragen, Karteikarten und Übungen generieren zu lassen.
+
+## So funktioniert der Selbstlernmodus
+
+1.) Dokument hochladen
+- Du lädst deine eigenen PDFs hoch (Vorlesungsskripte, Seminarunterlagen, Gesetzestexte, Buchkapitel etc.)
+Empfehlung: PDFs < 30 Seiten für schnellere Verarbeitung
+Maximale Dateigröße: 80 MB
+
+2.) KI analysiert den Inhalt
+Die KI liest und versteht das gesamte Dokument
+
+3.) Automatische Generierung von Lernmaterialien
+- Multiple-Choice-Fragen
+- Offene Fragen
+- Karteikarten (Flashcards)
+- Lückentexte
+- Zusammenfassungen
+- Lernziele
+
+4.) Selbstständiges Lernen & Testen
+- Du beantwortest die generierten Fragen
+- Automatische Bewertung (bei MC sofort, bei offenen Fragen oft mit KI-Feedback)
+- Direkte Verlinkung zur richtigen Stelle im Originaldokument bei Fehlern
+
+5.) Wiederholung mit System
+- Falsch beantwortete Fragen kommen häufiger wieder (Spaced Repetition)
+- Schwache Themen werden automatisch intensiver trainiert
+
+
+Vorteile auf einen Blick
+
+- 100 % passend zu deinem individuellen Stoff (keine generischen Fragen)
+- Spart enorm viel Zeit bei der Erstellung von Karteikarten & Übungsfragen
+- Fördert aktives Lernen (Active Recall – wissenschaftlich bewährte Methode)
+- Ideal für Klausur- und Examensvorbereitung mit eigenen Uni-Unterlagen
+
+Kurz gesagt: Der Selbstlernmodus macht aus deinen PDFs in wenigen Minuten ein intelligentes, interaktives Quiz- und Karteikartensystem – perfekt abgestimmt auf genau deinen Lernstoff.
 
 # 3. Tutor-Model für Studierende
 
