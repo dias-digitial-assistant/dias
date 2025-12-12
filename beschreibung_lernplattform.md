@@ -137,7 +137,7 @@ Vorteile auf einen Blick
 - Fördert aktives Lernen (Active Recall – wissenschaftlich bewährte Methode)
 - Ideal für Klausur- und Examensvorbereitung mit eigenen Uni-Unterlagen
 
-Kurz gesagt: Der Selbstlernmodus macht aus deinen PDFs in wenigen Minuten ein intelligentes, interaktives Quiz- und Karteikartensystem – perfekt abgestimmt auf genau deinen Lernstoff.
+Der Selbstlernmodus macht aus deinen PDFs in wenigen Minuten ein intelligentes, interaktives Quiz- und Karteikartensystem – perfekt abgestimmt auf genau deinen Lernstoff.
 
 # 3. Tutor-Model für Studierende
 
