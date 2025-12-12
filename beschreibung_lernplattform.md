@@ -35,7 +35,7 @@ Zweck: Schnelle Erstellung digitaler Lerninhalte durch automatisierte Generierun
 
 # Modul erstellen
 
-Auf dieser Seite legen Lehrende ein neues Lernmodul an.  
+Auf dieser Seite legen Lehrende / Dozenten ein neues Lernmodul an.  
 Die Plattform generiert anschließend automatisch Lernziele, Fragen und Lernsessions aus dem hochgeladenen Material.
 
 ## Felder und Einstellungen
