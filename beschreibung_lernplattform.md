@@ -58,7 +58,7 @@ Die Plattform generiert anschließend automatisch Lernziele, Fragen und Lernsess
 
 ## Felder und Einstellungen
 
-| Feld                    | Beschreibung                                                                                 | Pflicht? |
+| Feld                    | Beschreibung                                                                                 | Pflichtfeld? |
 |-------------------------|----------------------------------------------------------------------------------------------|----------|
 | **Modulname**           | Kurzer, aussagekräftiger Titel des Moduls                                                    | Ja       |
 | **Modulbeschreibung**   | Detaillierte Beschreibung, was die Lernenden im Modul lernen (z. B. Auszug aus dem Modulhandbuch) | Ja       |
