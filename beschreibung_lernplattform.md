@@ -11,8 +11,28 @@ Der **DIAS Lernsession-Editor** ist ein Werkzeug für Lehrende der Hochschule An
 
 <img width="1772" height="931" alt="image" src="https://github.com/user-attachments/assets/d8aa61f1-8565-4a08-8aeb-f0c9f6595075" />
 
+# 1. Der Lern Session-Editor für Lehrende
 
-1. Das Quiz-Model für Studierende
+<img width="1797" height="975" alt="image" src="https://github.com/user-attachments/assets/5c13991d-2630-4b21-addd-a99621ad642b" />
+
+
+Beschreibung: Erstelle als Lehrender / Dozent Lernmodule, generiere Ziele und Fragen, verwalte Lernfortschritte
+Funktionen:
+
+- PDF-Dokumente hochladen
+- Lernziele generieren
+- Fragen und Bewertungen erstellen
+- Modulverwaltung
+
+Bereich: KI-gestützte Autorenumgebung für Lehrkräfte und Ausbilder
+Zweck: Schnelle Erstellung digitaler Lerninhalte durch automatisierte Generierung von Lernzielen, Fragen und Bewertungen aus hochgeladenen PDFs
+
+<img width="1742" height="977" alt="image" src="https://github.com/user-attachments/assets/4f1d386f-4f08-45ee-9912-b4a91ef60008" />
+
+# 2. Das Quiz-Model für Studierende
+
+<img width="1797" height="975" alt="image" src="https://github.com/user-attachments/assets/d7484863-1071-4666-bfce-a4d6db97f570" />
+
 
 Beschreibung: Übe mit vorbereiteten Modulen oder erstelle deine eigenen Lernmaterialien
 
@@ -23,7 +43,10 @@ Beschreibung: Übe mit vorbereiteten Modulen oder erstelle deine eigenen Lernmat
 
 ![Quizmodel](https://github.com/user-attachments/assets/2712ac76-970c-4d2d-94a5-667aa5f873d2)
 
-2. Tutor-Model für Studierende
+# 3. Tutor-Model für Studierende
+
+<img width="1797" height="975" alt="image" src="https://github.com/user-attachments/assets/963bec0b-94c5-4ed2-a96a-3cea30c39f61" />
+
 
 Beschreibung: Interaktive KI-gestützte Nachhilfe mit Dokumentkontext
 
