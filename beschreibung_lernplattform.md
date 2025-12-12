@@ -143,6 +143,31 @@ Beschreibung: Übe mit vorbereiteten Modulen oder erstelle deine eigenen Lernmat
 
 ![Quizmodel](https://github.com/user-attachments/assets/2712ac76-970c-4d2d-94a5-667aa5f873d2)
 
+# Anleitung: Lehrenden-Modul in Quiz-Model verwenden (für Studierende)
+So nutzt du die fertigen Quiz- und Lernmodule deiner Dozent:innen:
+
+1.) Einloggen
+Melde dich wie gewohnt in Quiz-Model an (du bist bereits angemeldet, siehe rechts oben).
+2.) Zum Bereich „Lehrenden-Modul verwenden“ gehen
+Du bist bereits richtig: Der blaue Tab „LEHRENDEN-MODUL VERWENDEN“ muss aktiv sein (wie im Screenshot).
+
+3.) Ein Modul auswählen
+Klicke auf den großen blauen Button „Module auswählen“.
+
+4.) Gewünschtes Modul aus der Liste wählen
+Klicke auf das Dropdown-Feld „Modul auswählen…“.
+Es öffnet sich eine Liste mit allen Modulen, die deine Dozent:innen für dich/die Veranstaltung freigegeben haben.
+Wähle das gewünschte Modul aus (z. B. „Anatomie Vorlesung WS 25/26“, „Strafrecht BT Übung“ etc.).
+
+5.) Lern-/Quiz-Sitzung starten
+Nach der Auswahl des Moduls wirst du automatisch weitergeleitet und kannst direkt mit dem Üben/Quiz beginnen.
+
+6.) Bereits gestartete Sitzungen anschauen (optional)
+Klicke stattdessen auf den grauen Button „Lernsitzungen“, um deine bisherigen Versuche, Ergebnisse und offenen Sitzungen dieses Moduls anzusehen.
+
+Tipp:
+Im Reiter „SELBSTLERNMODUS“ (nebenan) kannst du eigene Karten und Module erstellen – hier im Lehrenden-Modul nutzt du ausschließlich die vorgefertigten Inhalte deiner Lehrenden.
+
 ## Selbstlernmodus
 <img width="1618" height="967" alt="image" src="https://github.com/user-attachments/assets/352cd78e-46bc-4e1a-b7b9-97c8f73c543a" />
 
