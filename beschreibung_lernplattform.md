@@ -11,6 +11,8 @@ Der **DIAS Lernsession-Editor** ist ein Werkzeug für Lehrende der Hochschule An
 
 <img width="1772" height="931" alt="image" src="https://github.com/user-attachments/assets/d8aa61f1-8565-4a08-8aeb-f0c9f6595075" />
 
+
+
 # 1. Der Lern Session-Editor für Lehrende
 
 <img width="1797" height="975" alt="image" src="https://github.com/user-attachments/assets/5c13991d-2630-4b21-addd-a99621ad642b" />
@@ -29,6 +31,8 @@ Zweck: Schnelle Erstellung digitaler Lerninhalte durch automatisierte Generierun
 
 <img width="1742" height="977" alt="image" src="https://github.com/user-attachments/assets/4f1d386f-4f08-45ee-9912-b4a91ef60008" />
 
+
+
 # 2. Das Quiz-Model für Studierende
 
 <img width="1797" height="975" alt="image" src="https://github.com/user-attachments/assets/d7484863-1071-4666-bfce-a4d6db97f570" />
@@ -43,6 +47,8 @@ Beschreibung: Übe mit vorbereiteten Modulen oder erstelle deine eigenen Lernmat
 
 ![Quizmodel](https://github.com/user-attachments/assets/2712ac76-970c-4d2d-94a5-667aa5f873d2)
 
+
+
 # 3. Tutor-Model für Studierende
 
 <img width="1797" height="975" alt="image" src="https://github.com/user-attachments/assets/963bec0b-94c5-4ed2-a96a-3cea30c39f61" />
@@ -56,6 +62,7 @@ Beschreibung: Interaktive KI-gestützte Nachhilfe mit Dokumentkontext
 - Lernreflexion Unterstützung - Sokratischer Dialog zur Vertiefung des Verständnisses
 
 ![Tutor Model](https://github.com/user-attachments/assets/63b1b920-1a3b-46c9-89d6-8364cb25ea11)
+
 
 ## Schnellstart
 - Öffne: DIAS Overview
