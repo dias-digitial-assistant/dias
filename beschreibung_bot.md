@@ -9,7 +9,7 @@ Er dient ihnen insbes. in vier Funktionen: als Planer, Kommunikator, Analysator 
 
 <img width="930" height="618" alt="HS-Bot" src="https://github.com/user-attachments/assets/1535a9bd-25af-476f-b905-e8000e7d7120" />
 
-Link zum Repository: [Link] https://github.com/dias-digital-assistant/dias_mcp/tree/main
+Link zum Repository: [Link](https://github.com/dias-digital-assistant/dias_mcp/tree/main)
 
 ---
 
