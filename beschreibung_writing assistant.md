@@ -11,7 +11,7 @@ Dieser Service ist Teil des DIAS-Ökosystems.
 
 Der Academic Paper Writer kann innerhalb der DIAS-Plattform aufgerufen werden.
 
-Der intelligente Schreib- und Recherche-Assistent
+# Der intelligente Schreib- und Recherche-Assistent
 Ein modulares, vernetztes System für akademisches und professionelles Schreiben
 
 ## 1. Dokumentenmanagement und Speicherung
@@ -36,7 +36,7 @@ Beseitigt Schreibblockaden und beschleunigt die erste Rohfassung dramatisch.
 Ideal für Berichte, Präsentationen, Blogbeiträge oder wissenschaftliche Kapitel – der Nutzer bleibt immer im kreativen Steuerungssitz.
 
 Zusammenhang
-Nutzt gespeicherte Quellen (Punkt 1) als Wissensbasis und bereitet den Text für die spätere evidenzbasierte Recherche (Punkt 3) vor. 
+Nutzt gespeicherte Quellen (Punkt 1) als Wissensbasis und bereitet den Text für die spätere evidenzbasierte Recherche vor. 
 So entsteht ein flüssiger Zyklus: Generieren → Überprüfen → Verfeinern.
 
 ## 4. Recherche und Quellenintegration
