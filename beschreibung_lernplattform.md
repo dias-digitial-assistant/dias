@@ -8,6 +8,8 @@ Link zum Repository: [Link](https://github.com/dias-digital-assistant/dias_backe
 
 ## Erklärung und Anleitung
 
+<img width="1772" height="931" alt="image" src="https://github.com/user-attachments/assets/d8aa61f1-8565-4a08-8aeb-f0c9f6595075" />
+
 - Das Tutor-Modell nutzt hochgeladene Dokumenteninhalte und unterstützt durch interaktives, dialogorientiertes Lernen. Nach dem sokratischen Prinzip führt der virtuelle Tutor Studierende durch gezielte Gegenfragen und Denkanstöße zu eigenen Lösungen und fördert so kritisches Denken und tiefes Verständnis, um den eigenen Lernfortschritt zu reflektieren.
 - Das Quiz-Modell identifiziert auf Grundlage bereitgestellter bzw. selbsthochgeladene Lernunterlagen automatisch relevante Lernziele und generiert passende Fragen mit anschließender Bewertung. Studierende können so ihre Wissenslücken erkennen, ihren Lernfortschritt dokumentieren und Karteikarten erstellen. Lehrende nutzen das System, indem sie eigene Lehrmodule durch die Generierung von Frage-Antwort-Paaren vorbereiten. Die Feedbackschleife der Studierenden an den Lehrenden dient der Optimierung der Lehrinhalte und der gezielten Wiederholungen in den Vorlesungen.
 - Lern Session-Editor
