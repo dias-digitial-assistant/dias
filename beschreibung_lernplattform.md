@@ -29,6 +29,40 @@ Funktionen:
 Bereich: KI-gestützte Autorenumgebung für Lehrkräfte und Ausbilder
 Zweck: Schnelle Erstellung digitaler Lerninhalte durch automatisierte Generierung von Lernzielen, Fragen und Bewertungen aus hochgeladenen PDFs
 
+## Modul erstellen
+
+<img width="1457" height="978" alt="image" src="https://github.com/user-attachments/assets/8e454bb8-cc35-4455-903e-67196c07a13e" />
+
+# Modul erstellen
+
+Auf dieser Seite legen Lehrende ein neues Lernmodul an.  
+Die Plattform generiert anschließend automatisch Lernziele, Fragen und Lernsessions aus dem hochgeladenen Material.
+
+## Felder und Einstellungen
+
+| Feld                    | Beschreibung                                                                                 | Pflicht? |
+|-------------------------|----------------------------------------------------------------------------------------------|----------|
+| **Modulname**           | Kurzer, aussagekräftiger Titel des Moduls                                                    | Ja       |
+| **Modulbeschreibung**   | Detaillierte Beschreibung, was die Lernenden im Modul lernen (z. B. Auszug aus dem Modulhandbuch) | Ja       |
+| **PDF-Dokument hochladen** | Hochladen eines PDFs (Skript, Folien, Handout etc.)<br>• Max. 100 MB pro Datei<br>• Bilder und Formeln werden **nicht** verarbeitet<br>• Empfehlung: < 30 Seiten für schnellere Verarbeitung | Ja       |
+| **Sichtbar für Studenten** | Checkbox – wenn angehakt, können Studierende das Modul sofort sehen und nutzen         | Optional (standardmäßig angehakt) |
+
+## Buttons
+
+- **Dateien durchsuchen** – öffnet den Datei-Dialog zum Auswählen der PDF
+- **Abbrechen** – schließt das Fenster ohne zu speichern
+- **Modul erstellen** – wird erst aktiv, wenn alle Pflichtfelder (Name, Beschreibung, PDF) ausgefüllt sind
+
+## Ablauf in der Praxis
+
+1. Modulname und Beschreibung eingeben  
+2. PDF-Datei auswählen/highladen  
+3. (Optional) Haken bei „Sichtbar für Studenten“ entfernen, wenn das Modul erst später freigegeben werden soll  
+4. Auf **Modul erstellen** klicken  
+   → Die Plattform analysiert das PDF und erzeugt automatisch Lernziele, Fragen, Erklärungen und Lernfortschritts-Tracking.
+
+Danach kannst du im Reiter **Ziele verwalten** und **Fragen verwalten** alles weiter anpassen.
+
 <img width="1742" height="977" alt="image" src="https://github.com/user-attachments/assets/4f1d386f-4f08-45ee-9912-b4a91ef60008" />
 
 
