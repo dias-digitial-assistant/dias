@@ -129,44 +129,15 @@ Vorteile für dich als Lehrende:r
 - Hohe fachliche Qualität durch Experten-Check
 
 Mit dem Lehrenden-Modul wählst du mit einem Klick ein fertiges, hochwertiges Lern- und Quizpaket aus, 
-gibst es deinen Studierenden und behältst den gesamten Lernfortschritt im Blick – effizienter geht Unterricht kaum!
+gibst es deinen Studierenden und behältst den gesamten Lernfortschritt im Blick.
 
-
-Beschreibung: Übe mit vorbereiteten Modulen oder erstelle deine eigenen Lernmaterialien
-
-- Lernmodule durchsuchen - Zugriff auf eine umfangreiche Bibliothek vorbereiteter Quizmodule
-- Selbstlern-Modus - Individuelles Lerntempo und wiederholtes Üben
-- Beantworte Fragen und erhalte Feedback - Sofortige Rückmeldung zu Antworten mit detaillierten Erklärungen
-- Lernfortschritt verfolgen - Tracking deiner Entwicklung und Identifikation von Wissenslücken
+Tipp:
+Im Reiter „SELBSTLERNMODUS“ (nebenan) kannst du eigene Karten und Module erstellen – hier im Lehrenden-Modul nutzt du ausschließlich die vorgefertigten Inhalte deiner Lehrenden.
 
 ## Lehrenden-Modul verwenden
 
 ![Quizmodel](https://github.com/user-attachments/assets/2712ac76-970c-4d2d-94a5-667aa5f873d2)
 
-# Anleitung: Lehrenden-Modul in Quiz-Model verwenden (für Studierende)
-So nutzt du die fertigen Quiz- und Lernmodule deiner Dozent:innen:
-
-1.) Einloggen
-Melde dich wie gewohnt in Quiz-Model an (du bist bereits angemeldet, siehe rechts oben).
-2.) Zum Bereich „Lehrenden-Modul verwenden“ gehen
-Du bist bereits richtig: Der blaue Tab „LEHRENDEN-MODUL VERWENDEN“ muss aktiv sein (wie im Screenshot).
-
-3.) Ein Modul auswählen
-Klicke auf den großen blauen Button „Module auswählen“.
-
-4.) Gewünschtes Modul aus der Liste wählen
-Klicke auf das Dropdown-Feld „Modul auswählen…“.
-Es öffnet sich eine Liste mit allen Modulen, die deine Dozent:innen für dich/die Veranstaltung freigegeben haben.
-Wähle das gewünschte Modul aus (z. B. „Anatomie Vorlesung WS 25/26“, „Strafrecht BT Übung“ etc.).
-
-5.) Lern-/Quiz-Sitzung starten
-Nach der Auswahl des Moduls wirst du automatisch weitergeleitet und kannst direkt mit dem Üben/Quiz beginnen.
-
-6.) Bereits gestartete Sitzungen anschauen (optional)
-Klicke stattdessen auf den grauen Button „Lernsitzungen“, um deine bisherigen Versuche, Ergebnisse und offenen Sitzungen dieses Moduls anzusehen.
-
-Tipp:
-Im Reiter „SELBSTLERNMODUS“ (nebenan) kannst du eigene Karten und Module erstellen – hier im Lehrenden-Modul nutzt du ausschließlich die vorgefertigten Inhalte deiner Lehrenden.
 
 ## Selbstlernmodus
 <img width="1618" height="967" alt="image" src="https://github.com/user-attachments/assets/352cd78e-46bc-4e1a-b7b9-97c8f73c543a" />
