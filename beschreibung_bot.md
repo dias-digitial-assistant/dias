@@ -29,7 +29,7 @@ DIAS motiviert Studierende mit Gamification-Elementen, Motivationssprüchen und 
 
 Unter der Rubrik "Quicklinks" findest du hilfreiche Links zu folgenden Themen
 
-- Terminplan
+- Terminplan 
 - Primus Login
 - Stundenplan
 - Moodle Login
