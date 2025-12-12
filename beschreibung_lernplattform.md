@@ -64,6 +64,22 @@ Die Plattform generiert anschließend automatisch Lernziele, Fragen und Lernsess
 Danach kannst du im Reiter **Ziele verwalten** und **Fragen verwalten** alles weiter anpassen.
 
 
+# Ziele verwalten
+
+<img width="1420" height="950" alt="image" src="https://github.com/user-attachments/assets/03d4a9cc-c03e-4be1-85b1-5a450bf86e5f" />
+
+**Modul für Zielverwaltung auswählen:**  
+`Angewandte KI` ▼
+
+**Zielerstellungsmethode wählen:**
+
+- 🔘 **KI-generierte Ziele**  
+- ⚪ Manuelle Zielerstellung
+
+**Anzahl der Lernziele (3-10):**  
+`6` (Schieberegler auf 6)
+
+
 
 
 
