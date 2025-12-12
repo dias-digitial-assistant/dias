@@ -9,9 +9,80 @@ Link zum Repository: [Link](https://github.com/prof-schacht/academic-citation-as
 
 Dieser Service ist Teil des DIAS-Ökosystems.
 
-Die Academic Paper Writer kann innerhalb der DIAS-Plattform aufgerufen werden.
+Der Academic Paper Writer kann innerhalb der DIAS-Plattform aufgerufen werden.
 
-Die Funktionen decken einen vollständigen Schreib- und Rechercheprozess ab: Von der Aufnahme von Inhalten über die Generierung neuer Elemente bis hin zur finalen Überprüfung und Formatierung. Der Nutzen liegt in der Automatisierung zeitintensiver Aufgaben, der Vermeidung von Fehlern (z. B. Plagiat) und der Steigerung der Produktivität – ideal für Studierende, Forscher oder Autoren. Im Folgenden werden die Funktionalitäten ausführlich erklärt.
+Der intelligente Schreib- und Recherche-Assistent
+Ein modulares, vernetztes System für akademisches und professionelles Schreiben
+
+## 1. Dokumentenmanagement und Speicherung
+Funktionalität
+Der Assistant speichert hochgeladene Dokumente (z. B. PDFs bis 500 Wörter) oder extrahierte Textpassagen dauerhaft und sicher ab. 
+Er ermöglicht semantische Suchen innerhalb aller gespeicherten Inhalte und das nachträgliche Hinzufügen neuer Texte, ohne die bestehende Struktur zu zerstören.
+
+Nutzen
+Entsteht eine zentrale, verlustsichere „Bibliothek“ für alles Recherche-Material. Doppelte Suche entfällt, Kontext bleibt erhalten.
+Beispiel: Ein Nutzer lädt eine Studie hoch – der Assistant extrahiert automatisch die relevantesten Passagen und macht sie jederzeit auffindbar.
+
+Zusammenhang
+Grundlage für alle weiteren Funktionen. Ohne sichere, durchsuchbare Speicherung wäre weder tiefgehende Recherche noch zuverlässige Text-Generierung möglich.
+
+## 3. Generierung von Inhalten
+Funktionalität
+Aus Stichworten, Skizzen oder Fragestellungen erzeugt der Assistant kohärente Texte, Absätze, 
+Gliederungen oder sogar Diagramme. Durch dialogbasierte Verfeinerung wird der Output schrittweise perfektioniert und direkt in bestehende Dokumente eingefügt.
+
+Nutzen
+Beseitigt Schreibblockaden und beschleunigt die erste Rohfassung dramatisch. 
+Ideal für Berichte, Präsentationen, Blogbeiträge oder wissenschaftliche Kapitel – der Nutzer bleibt immer im kreativen Steuerungssitz.
+
+Zusammenhang
+Nutzt gespeicherte Quellen (Punkt 1) als Wissensbasis und bereitet den Text für die spätere evidenzbasierte Recherche (Punkt 3) vor. 
+So entsteht ein flüssiger Zyklus: Generieren → Überprüfen → Verfeinern.
+
+## 4. Recherche und Quellenintegration
+Funktionalität
+Der Assistant durchsucht gleichzeitig eigene gespeicherte Dokumente und (bei Bedarf) über 200 externe Quellen. 
+Er findet semantisch passende Zitate, vergleicht bis zu drei Dokumente auf Überschneidungen und liefert sofort korrekt formatierte Quellenangaben
+für bis zu drei parallel laufende Suchanfragen.
+
+Nutzen
+Die klassische, stundenlange Quellenjagd gehört der Vergangenheit an. Stattdessen erhält der Nutzer präzise, 
+nachvollziehbare und direkt einbaubare Belege – z. B. zu „Auswirkungen von KI auf Bildung“ innerhalb von Sekunden.
+
+Zusammenhang
+Verbindet Generierung mit wissenschaftlicher Redlichkeit: Jede Behauptung kann sofort mit einer Quelle untermauert werden. Plagiatsrisiko → praktisch null.
+
+## 5. Formatierung und Anpassung
+Funktionalität
+Automatische Umwandlung in gewünschtes Format (APA 7, DINA4-Layout, PowerPoint-Outline etc.), Umformulierungsvorschläge für Klarheit, 
+Kürze oder Zielgruppen-Anpassung (Fachpublikum ↔ Laien) sowie Stil- und Tonfall-Anpassungen.
+
+Nutzen
+Der finale Text sieht sofort professionell aus. Der Assistant schlägt aktiv vor: „Dieser Satz ist zu lang – hier eine 40 % kürzere, 
+prägnantere Variante“ und übernimmt die Änderung auf Wunsch per Klick.
+
+Zusammenhang
+Schließt den Kreis zur Recherche: Korrekte Zitate fließen formatiert ins Dokument ein und bleiben auch bei späteren Änderungen konsistent.
+
+## 6. Überprüfung und Optimierung
+Funktionalität
+Semantische Kohärenzprüfung, Logik-Check, Quellenabgleich, Stil-Konsistenz und automatische Markierung von Schwachstellen („Diese Aussage ist nicht belegt“, „Wiederholung in Absatz 3“, „Tonfall wechselt plötzlich“).
+
+Nutzen
+Funktioniert als letzter, unermüdlicher Qualitätsfilter. Fehler werden nicht nur gefunden, sondern direkt mit Lösungsvorschlägen präsentiert – die Glaubwürdigkeit und Note des Textes steigt spürbar.
+
+Zusammenhang
+Greift auf alle vorherigen Module zurück und stellt sicher, dass der finale Output inhaltlich, formal und ethisch einwandfrei ist.
+Gesamtbild und Mehrwert des Systems
+Jede Funktion ist einzeln nutzbar, aber in der Kombination entsteht ein geschlossener, iterativer Workflow:
+Speichern → Generieren → Recherchieren → Formatieren → Prüfen → Fertig
+
+## Der konkrete Nutzen für dich:
+
+- Effizienz: Zeitersparnis bei Recherche und Schreiben
+- Genauigkeit & Ethik: Automatische Zitierung und Plagiatsvermeidung
+- Skalierbarkeit: Funktioniert gleichermaßen
+- Lernkurve: Durch transparente Vorschläge und Begründungen wirst du nebenbei besser im Schreiben
 
 ---
 
