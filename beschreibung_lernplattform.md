@@ -10,6 +10,10 @@ Link zum Repository: [Link](https://github.com/dias-digital-assistant/dias_backe
 
 - Das Tutor-Modell nutzt hochgeladene Dokumenteninhalte und unterstützt durch interaktives, dialogorientiertes Lernen. Nach dem sokratischen Prinzip führt der virtuelle Tutor Studierende durch gezielte Gegenfragen und Denkanstöße zu eigenen Lösungen und fördert so kritisches Denken und tiefes Verständnis, um den eigenen Lernfortschritt zu reflektieren.
 - Das Quiz-Modell identifiziert auf Grundlage bereitgestellter bzw. selbsthochgeladene Lernunterlagen automatisch relevante Lernziele und generiert passende Fragen mit anschließender Bewertung. Studierende können so ihre Wissenslücken erkennen, ihren Lernfortschritt dokumentieren und Karteikarten erstellen. Lehrende nutzen das System, indem sie eigene Lehrmodule durch die Generierung von Frage-Antwort-Paaren vorbereiten. Die Feedbackschleife der Studierenden an den Lehrenden dient der Optimierung der Lehrinhalte und der gezielten Wiederholungen in den Vorlesungen.
+- Lern Session-Editor
+Das Lern Session-Editor-Modell ermöglicht Lehrenden die vollständige Planung, Erstellung und Durchführung ganzer digitaler Unterrichtseinheiten auf Basis hochgeladener oder vorhandener Lernunterlagen. Es identifiziert automatisch passende Lernziele, generiert komplette Module mit strukturierten Fragen, Aufgaben, Zeitvorgaben und Abläufen sowie automatische Bewertungen und Lernfortschrittsanalysen.
+Lehrende können so komplexe Präsenz-, Blended- oder Online-Veranstaltungen in einem Werkzeug vorbereiten, live steuern und auswerten. Studierende arbeiten selbstständig oder synchron in der vorgegebenen Struktur, erhalten sofortiges Feedback und dokumentieren ihren Fortschritt und Schwächen.
+Die Echtzeit-Feedbackschleife (Live-Monitoring, Antwortstatistiken, Schwierigkeits-Heatmaps) fließt direkt an die Lehrenden zurück und dient der kontinuierlichen Optimierung der Lehrmodule, der gezielten Nachbereitung schwieriger Themen und der Anpassung kommender Vorlesungen und Übungen.
 
 | Modell                  | Zielgruppe            | Hauptzweck                                      | Wichtigste Funktionen                                      |
 |-------------------------|-----------------------|-------------------------------------------------|--------------------------------------------------------------------|
@@ -21,8 +25,6 @@ Link zum Repository: [Link](https://github.com/dias-digital-assistant/dias_backe
 - **Lern Session-Editor** → der digitale Seminarraum der Lehrkraft  
 - **Quiz-Modell** → der automatische Prüfer + Karteikarten-Trainer  
 - **Tutor-Modell** → der persönliche 1:1-Nachhilfelehrer für jeden Studierenden
-
-<img width="1772" height="931" alt="image" src="https://github.com/user-attachments/assets/d8aa61f1-8565-4a08-8aeb-f0c9f6595075" />
 
 
 
