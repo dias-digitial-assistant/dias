@@ -26,7 +26,7 @@ Beispiel: Ein Nutzer lädt eine Studie hoch – der Assistant extrahiert automat
 Zusammenhang
 Grundlage für alle weiteren Funktionen. Ohne sichere, durchsuchbare Speicherung wäre weder tiefgehende Recherche noch zuverlässige Text-Generierung möglich.
 
-## 3. Generierung von Inhalten
+## 2. Generierung von Inhalten
 Funktionalität
 Aus Stichworten, Skizzen oder Fragestellungen erzeugt der Assistant kohärente Texte, Absätze, 
 Gliederungen oder sogar Diagramme. Durch dialogbasierte Verfeinerung wird der Output schrittweise perfektioniert und direkt in bestehende Dokumente eingefügt.
@@ -39,7 +39,7 @@ Zusammenhang
 Nutzt gespeicherte Quellen (Punkt 1) als Wissensbasis und bereitet den Text für die spätere evidenzbasierte Recherche vor. 
 So entsteht ein flüssiger Zyklus: Generieren → Überprüfen → Verfeinern.
 
-## 4. Recherche und Quellenintegration
+## 3. Recherche und Quellenintegration
 Funktionalität
 Der Assistant durchsucht gleichzeitig eigene gespeicherte Dokumente und (bei Bedarf) über 200 externe Quellen. 
 Er findet semantisch passende Zitate, vergleicht bis zu drei Dokumente auf Überschneidungen und liefert sofort korrekt formatierte Quellenangaben
@@ -52,7 +52,7 @@ nachvollziehbare und direkt einbaubare Belege – z. B. zu „Auswirkungen von K
 Zusammenhang
 Verbindet Generierung mit wissenschaftlicher Redlichkeit: Jede Behauptung kann sofort mit einer Quelle untermauert werden. Plagiatsrisiko → praktisch null.
 
-## 5. Formatierung und Anpassung
+## 4. Formatierung und Anpassung
 Funktionalität
 Automatische Umwandlung in gewünschtes Format (APA 7, DINA4-Layout, PowerPoint-Outline etc.), Umformulierungsvorschläge für Klarheit, 
 Kürze oder Zielgruppen-Anpassung (Fachpublikum ↔ Laien) sowie Stil- und Tonfall-Anpassungen.
@@ -64,7 +64,7 @@ prägnantere Variante“ und übernimmt die Änderung auf Wunsch per Klick.
 Zusammenhang
 Schließt den Kreis zur Recherche: Korrekte Zitate fließen formatiert ins Dokument ein und bleiben auch bei späteren Änderungen konsistent.
 
-## 6. Überprüfung und Optimierung
+## 5. Überprüfung und Optimierung
 Funktionalität
 Semantische Kohärenzprüfung, Logik-Check, Quellenabgleich, Stil-Konsistenz und automatische Markierung von Schwachstellen („Diese Aussage ist nicht belegt“, „Wiederholung in Absatz 3“, „Tonfall wechselt plötzlich“).
 
@@ -77,7 +77,7 @@ Gesamtbild und Mehrwert des Systems
 Jede Funktion ist einzeln nutzbar, aber in der Kombination entsteht ein geschlossener, iterativer Workflow:
 Speichern → Generieren → Recherchieren → Formatieren → Prüfen → Fertig
 
-## Der konkrete Nutzen für dich:
+## Der konkrete Nutzen für dich im Überblick:
 
 - Effizienz: Zeitersparnis bei Recherche und Schreiben
 - Genauigkeit & Ethik: Automatische Zitierung und Plagiatsvermeidung
